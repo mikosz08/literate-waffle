@@ -1,5 +1,5 @@
-﻿using StackAPI.Services.Interfaces;
-using StackAPI.Services.Implementations;
+﻿using StackAPI.Services.Implementations;
+using StackAPI.Services.Interfaces;
 
 
 namespace StackAPI

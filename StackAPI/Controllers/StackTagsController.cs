@@ -17,8 +17,9 @@ namespace StackAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            var tags = await _stackService.GetStackTagsAsync();
+            var tags = await _stackService.GetStackTagsWithPercentageAsync();
             return Ok(tags);
         }
+
     }
 }
