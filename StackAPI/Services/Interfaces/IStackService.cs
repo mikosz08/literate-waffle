@@ -7,5 +7,6 @@ namespace StackAPI.Services.Interfaces
     {
         Task<IEnumerable<StackTag>> GetStackTagsAsync();
         Task<IEnumerable<StackTagDto>> GetStackTagsWithPercentageAsync();
+        Task<PagedResult<StackTagDto>> GetStackTagsPagedAsync(PagingOptions pagingOptions);
     }
 }
