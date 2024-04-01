@@ -42,6 +42,28 @@ namespace StackAPI.Services.Implementations
             return result?.Items ?? new List<StackTag>();
         }
 
+
+        public async Task<PagedResult<StackTagDto>> GetStackTagsPagedAsync(PagingOptions pagingOptions)
+        {
+            var tags = await GetStackTagsWithPercentageAsync();
+
+            IEnumerable<StackTagDto> sortedTags = pagingOptions.SortDirection?.ToUpper() == "ASC" ?
+            (pagingOptions.SortBy == "Name" ? tags.OrderBy(t => t.Name) : tags.OrderBy(t => t.Percentage)) :
+            (pagingOptions.SortBy == "Name" ? tags.OrderByDescending(t => t.Name) : tags.OrderByDescending(t => t.Percentage));
+
+            var skipCount = (pagingOptions.PageNumber - 1) * pagingOptions.PageSize;
+
+            var pagedTags = sortedTags.Skip(skipCount).Take(pagingOptions.PageSize);
+
+            return new PagedResult<StackTagDto>
+            {
+                Items = pagedTags.ToList(),
+                TotalItems = tags.Count(),
+                CurrentPage = pagingOptions.PageNumber,
+                PageSize = pagingOptions.PageSize
+            };
+        }
+
         private static JsonSerializerOptions GetJsonOptions()
         {
             var options = new JsonSerializerOptions
@@ -50,5 +72,6 @@ namespace StackAPI.Services.Implementations
             };
             return options;
         }
+
     }
 }
