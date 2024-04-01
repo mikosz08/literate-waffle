@@ -1,4 +1,5 @@
-﻿using StackAPI.Models;
+﻿using StackAPI.DTOs;
+using StackAPI.Models;
 using StackAPI.Services.Interfaces;
 using System.Text.Json;
 
@@ -17,6 +18,19 @@ namespace StackAPI.Services.Implementations
 
         }
 
+        public async Task<IEnumerable<StackTagDto>> GetStackTagsWithPercentageAsync()
+        {
+            var tags = await GetStackTagsAsync();
+            var totalTagCount = tags.Sum(tag => tag.Count);
+
+            return tags.Select(tag => new StackTagDto
+            {
+                Name = tag.Name,
+                Count = tag.Count,
+                Percentage = (double)tag.Count / totalTagCount * 100
+            }).ToList();
+        }
+
         public async Task<IEnumerable<StackTag>> GetStackTagsAsync()
         {
             var response = await _httpClient.GetAsync(stackTagUri);
@@ -25,7 +39,7 @@ namespace StackAPI.Services.Implementations
             var content = await response.Content.ReadAsStringAsync();
             var result = JsonSerializer.Deserialize<StackApiResponse>(content, GetJsonOptions());
 
-            return result?.Items != null ? result.Items : [];
+            return result?.Items ?? new List<StackTag>();
         }
 
         private static JsonSerializerOptions GetJsonOptions()
