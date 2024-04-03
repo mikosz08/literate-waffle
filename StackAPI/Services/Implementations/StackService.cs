@@ -30,17 +30,12 @@ namespace StackAPI.Services.Implementations
             {
                 return await _stackTagSerializer.LoadTagsAsync();
             }
-
-            var allTags = await FetchTagsFromApiAsync();
-            return await GetTagsWithPercentageAsync(allTags);
+            return await FetchAndSaveTagsAsync();
         }
 
         public async Task<IEnumerable<StackTagDto>> ForceRefreshStackTagsAsync()
         {
-            var allTags = await FetchTagsFromApiAsync();
-            var tagsWithPercentage = await GetTagsWithPercentageAsync(allTags);
-            await _stackTagSerializer.SaveTagsAsync(tagsWithPercentage);
-            return tagsWithPercentage;
+            return await FetchAndSaveTagsAsync();
         }
 
         public async Task<PagedResult<StackTagDto>> GetStackTagsPagedAsync(PagingOptions pagingOptions)
@@ -55,7 +50,7 @@ namespace StackAPI.Services.Implementations
 
             StackApiResponse result = await ReadResponse(response);
 
-            var tags = await GetTagsWithPercentageAsync(result?.Items ?? new List<StackTag>());
+            var tags = GetTagsWithPercentageAsync(result?.Items ?? new List<StackTag>());
 
             return new PagedResult<StackTagDto>
             {
@@ -64,6 +59,14 @@ namespace StackAPI.Services.Implementations
                 CurrentPage = pagingOptions.PageNumber,
                 PageSize = pagingOptions.PageSize,
             };
+        }
+
+        private async Task<IEnumerable<StackTagDto>> FetchAndSaveTagsAsync()
+        {
+            var allTags = await FetchTagsFromApiAsync();
+            var tagsWithPercentage = GetTagsWithPercentageAsync(allTags);
+            await _stackTagSerializer.SaveTagsAsync(tagsWithPercentage);
+            return tagsWithPercentage;
         }
 
         private async Task<List<StackTag>> FetchTagsFromApiAsync(int requiredTagsCount = 1000)
@@ -97,7 +100,6 @@ namespace StackAPI.Services.Implementations
             return allTags;
         }
 
-
         private static async Task<StackApiResponse> ReadResponse(HttpResponseMessage response)
         {
             var content = await response.Content.ReadAsStringAsync();
@@ -120,7 +122,7 @@ namespace StackAPI.Services.Implementations
                 $"site={_site}";
         }
 
-        private static async Task<List<StackTagDto>> GetTagsWithPercentageAsync(IEnumerable<StackTag> tags)
+        private static List<StackTagDto> GetTagsWithPercentageAsync(IEnumerable<StackTag> tags)
         {
             if (tags.Count() < 0)
             {
@@ -135,7 +137,6 @@ namespace StackAPI.Services.Implementations
                 Popular = (double)tag.Count / totalTagCount * 100
             }).ToList();
 
-            await _stackTagSerializer.SaveTagsAsync(result);
             return result;
         }
 
