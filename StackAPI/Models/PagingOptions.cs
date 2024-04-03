@@ -2,9 +2,11 @@
 {
     public class PagingOptions
     {
-        public int PageNumber { get; set; }
-        public int PageSize { get; set; }
-        public string? SortBy { get; set; }
-        public string? SortDirection { get; set; }
+        public int PageNumber { get; set; } = 1;
+        public int PageSize { get; set; } = 100;
+        public string Order { get; set; } = "ASC";
+        public string Sort { get; set; } = "Name";
     }
+
 }
+
