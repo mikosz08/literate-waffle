@@ -5,8 +5,7 @@ namespace StackAPI.Services.Interfaces
 {
     public interface IStackService
     {
-        Task<IEnumerable<StackTag>> GetStackTagsAsync();
-        Task<IEnumerable<StackTagDto>> GetStackTagsWithPercentageAsync();
+        Task<IEnumerable<StackTagDto>> GetStackTagsAsync();
         Task<PagedResult<StackTagDto>> GetStackTagsPagedAsync(PagingOptions pagingOptions);
     }
 }

@@ -1,7 +1,8 @@
 ﻿using StackAPI.DTOs;
 using StackAPI.Models;
-using StackAPI.Services.Interfaces;
 using System.Text.Json;
+using StackAPI.Services.Interfaces;
+using System.Text.Json.Serialization;
 
 namespace StackAPI.Services.Implementations
 {
@@ -9,66 +10,111 @@ namespace StackAPI.Services.Implementations
     {
 
         private readonly HttpClient _httpClient;
+        private readonly string? _stackTagUri;
+        private readonly string? _site;
+        private readonly string? _apiKey;
 
-        private readonly string stackTagUri = "https://api.stackexchange.com/2.2/tags?order=desc&sort=popular&site=stackoverflow";
-
-        public StackService(HttpClient httpClient)
+        public StackService(HttpClient httpClient, IConfiguration config)
         {
             _httpClient = httpClient;
-
+            _site = config["StackOverflowApi:Site"];
+            _apiKey = config["SOApi:Key"];
+            _stackTagUri = config["StackOverflowApi:BaseUrl"];
         }
 
-        public async Task<IEnumerable<StackTagDto>> GetStackTagsWithPercentageAsync()
+        public async Task<IEnumerable<StackTagDto>> GetStackTagsAsync()
         {
-            var tags = await GetStackTagsAsync();
+            List<StackTag> allTags = new();
+            PagingOptions pagingOptions = new();
+            bool moreDataAvailable = true;
+
+            const int requiredTagsCount = 1000;
+
+            while (allTags.Count < requiredTagsCount && moreDataAvailable)
+            {
+                var requestUri = CreateURI(pagingOptions);
+
+                var response = await _httpClient.GetAsync(requestUri);
+                if (!response.IsSuccessStatusCode)
+                {
+                    throw new HttpRequestException($"Request failed: {response}");
+                }
+
+                var content = await response.Content.ReadAsStringAsync();
+                var result = JsonSerializer.Deserialize<StackApiResponse>(content, GetJsonOptions());
+
+                if (result?.Items == null || !result.Items.Any())
+                {
+                    moreDataAvailable = false;
+                }
+                else
+                {
+                    allTags.AddRange(result.Items);
+                    pagingOptions.PageNumber++;
+                }
+            }
+            return GetTagsWithPercentage(allTags);
+        }
+
+
+        public async Task<PagedResult<StackTagDto>> GetStackTagsPagedAsync(PagingOptions pagingOptions)
+        {
+            var requestUri = CreateURI(pagingOptions);
+            Console.WriteLine(requestUri);
+
+            var response = await _httpClient.GetAsync(requestUri);
+            if (!response.IsSuccessStatusCode)
+            {
+                throw new HttpRequestException($"Request failed: {response}");
+            }
+
+            var content = await response.Content.ReadAsStringAsync();
+            var result = JsonSerializer.Deserialize<StackApiResponse>(content, GetJsonOptions());
+
+            var tags = GetTagsWithPercentage(result?.Items ?? new List<StackTag>());
+
+            return new PagedResult<StackTagDto>
+            {
+                Items = tags,
+                TotalItems = tags.Count,
+                CurrentPage = pagingOptions.PageNumber,
+                PageSize = pagingOptions.PageSize,
+            };
+        }
+
+        private string CreateURI(PagingOptions pagingOptions)
+        {
+            return $"{_stackTagUri}?" +
+                $"key={_apiKey}&" +
+                $"page={pagingOptions.PageNumber}&" +
+                $"pagesize={pagingOptions.PageSize}&" +
+                $"order={pagingOptions.Order}&" +
+                $"sort={pagingOptions.Sort}&" +
+                $"site={_site}";
+        }
+
+        private static List<StackTagDto> GetTagsWithPercentage(IEnumerable<StackTag> tags)
+        {
+            if (tags.Count() < 0)
+            {
+                return new List<StackTagDto>();
+            }
             var totalTagCount = tags.Sum(tag => tag.Count);
 
             return tags.Select(tag => new StackTagDto
             {
                 Name = tag.Name,
                 Count = tag.Count,
-                Percentage = (double)tag.Count / totalTagCount * 100
+                Popular = (double)tag.Count / totalTagCount * 100
             }).ToList();
-        }
-
-        public async Task<IEnumerable<StackTag>> GetStackTagsAsync()
-        {
-            var response = await _httpClient.GetAsync(stackTagUri);
-            response.EnsureSuccessStatusCode();
-
-            var content = await response.Content.ReadAsStringAsync();
-            var result = JsonSerializer.Deserialize<StackApiResponse>(content, GetJsonOptions());
-
-            return result?.Items ?? new List<StackTag>();
-        }
-
-
-        public async Task<PagedResult<StackTagDto>> GetStackTagsPagedAsync(PagingOptions pagingOptions)
-        {
-            var tags = await GetStackTagsWithPercentageAsync();
-
-            IEnumerable<StackTagDto> sortedTags = pagingOptions.SortDirection?.ToUpper() == "ASC" ?
-            (pagingOptions.SortBy == "Name" ? tags.OrderBy(t => t.Name) : tags.OrderBy(t => t.Percentage)) :
-            (pagingOptions.SortBy == "Name" ? tags.OrderByDescending(t => t.Name) : tags.OrderByDescending(t => t.Percentage));
-
-            var skipCount = (pagingOptions.PageNumber - 1) * pagingOptions.PageSize;
-
-            var pagedTags = sortedTags.Skip(skipCount).Take(pagingOptions.PageSize);
-
-            return new PagedResult<StackTagDto>
-            {
-                Items = pagedTags.ToList(),
-                TotalItems = tags.Count(),
-                CurrentPage = pagingOptions.PageNumber,
-                PageSize = pagingOptions.PageSize
-            };
         }
 
         private static JsonSerializerOptions GetJsonOptions()
         {
             var options = new JsonSerializerOptions
             {
-                PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+                PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+                NumberHandling = JsonNumberHandling.AllowNamedFloatingPointLiterals
             };
             return options;
         }
