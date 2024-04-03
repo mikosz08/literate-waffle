@@ -1,14 +1,15 @@
-﻿using StackAPI.DTOs;
+﻿using StackAPI.Data;
+using StackAPI.DTOs;
 using StackAPI.Models;
-using System.Text.Json;
 using StackAPI.Services.Interfaces;
+using System.Text.Json;
 using System.Text.Json.Serialization;
 
 namespace StackAPI.Services.Implementations
 {
     public class StackService : IStackService
     {
-
+        private static readonly StackTagSerializer _stackTagSerializer = new("tags.json");
         private readonly HttpClient _httpClient;
         private readonly string? _stackTagUri;
         private readonly string? _site;
@@ -17,18 +18,59 @@ namespace StackAPI.Services.Implementations
         public StackService(HttpClient httpClient, IConfiguration config)
         {
             _httpClient = httpClient;
+
             _site = config["StackOverflowApi:Site"];
-            _apiKey = config["SOApi:Key"];
             _stackTagUri = config["StackOverflowApi:BaseUrl"];
+            _apiKey = config["SOApi:Key"];
         }
 
         public async Task<IEnumerable<StackTagDto>> GetStackTagsAsync()
         {
-            List<StackTag> allTags = new();
-            PagingOptions pagingOptions = new();
-            bool moreDataAvailable = true;
+            if (_stackTagSerializer.IsDataFresh())
+            {
+                return await _stackTagSerializer.LoadTagsAsync();
+            }
 
-            const int requiredTagsCount = 1000;
+            var allTags = await FetchTagsFromApiAsync();
+            return await GetTagsWithPercentageAsync(allTags);
+        }
+
+        public async Task<IEnumerable<StackTagDto>> ForceRefreshStackTagsAsync()
+        {
+            var allTags = await FetchTagsFromApiAsync();
+            var tagsWithPercentage = await GetTagsWithPercentageAsync(allTags);
+            await _stackTagSerializer.SaveTagsAsync(tagsWithPercentage);
+            return tagsWithPercentage;
+        }
+
+        public async Task<PagedResult<StackTagDto>> GetStackTagsPagedAsync(PagingOptions pagingOptions)
+        {
+            var requestUri = CreateURI(pagingOptions);
+
+            var response = await _httpClient.GetAsync(requestUri);
+            if (!response.IsSuccessStatusCode)
+            {
+                throw new HttpRequestException($"Request failed: {response}");
+            }
+
+            StackApiResponse result = await ReadResponse(response);
+
+            var tags = await GetTagsWithPercentageAsync(result?.Items ?? new List<StackTag>());
+
+            return new PagedResult<StackTagDto>
+            {
+                Items = tags,
+                TotalItems = tags.Count,
+                CurrentPage = pagingOptions.PageNumber,
+                PageSize = pagingOptions.PageSize,
+            };
+        }
+
+        private async Task<List<StackTag>> FetchTagsFromApiAsync(int requiredTagsCount = 1000)
+        {
+            List<StackTag> allTags = new();
+            PagingOptions pagingOptions = new PagingOptions();
+            bool moreDataAvailable = true;
 
             while (allTags.Count < requiredTagsCount && moreDataAvailable)
             {
@@ -40,10 +82,9 @@ namespace StackAPI.Services.Implementations
                     throw new HttpRequestException($"Request failed: {response}");
                 }
 
-                var content = await response.Content.ReadAsStringAsync();
-                var result = JsonSerializer.Deserialize<StackApiResponse>(content, GetJsonOptions());
+                StackApiResponse result = await ReadResponse(response);
 
-                if (result?.Items == null || !result.Items.Any())
+                if (result.Items == null || !result.Items.Any())
                 {
                     moreDataAvailable = false;
                 }
@@ -53,33 +94,19 @@ namespace StackAPI.Services.Implementations
                     pagingOptions.PageNumber++;
                 }
             }
-            return GetTagsWithPercentage(allTags);
+            return allTags;
         }
 
 
-        public async Task<PagedResult<StackTagDto>> GetStackTagsPagedAsync(PagingOptions pagingOptions)
+        private static async Task<StackApiResponse> ReadResponse(HttpResponseMessage response)
         {
-            var requestUri = CreateURI(pagingOptions);
-            Console.WriteLine(requestUri);
-
-            var response = await _httpClient.GetAsync(requestUri);
-            if (!response.IsSuccessStatusCode)
-            {
-                throw new HttpRequestException($"Request failed: {response}");
-            }
-
             var content = await response.Content.ReadAsStringAsync();
             var result = JsonSerializer.Deserialize<StackApiResponse>(content, GetJsonOptions());
-
-            var tags = GetTagsWithPercentage(result?.Items ?? new List<StackTag>());
-
-            return new PagedResult<StackTagDto>
+            if (result == null)
             {
-                Items = tags,
-                TotalItems = tags.Count,
-                CurrentPage = pagingOptions.PageNumber,
-                PageSize = pagingOptions.PageSize,
-            };
+                return new StackApiResponse();
+            }
+            return result;
         }
 
         private string CreateURI(PagingOptions pagingOptions)
@@ -93,7 +120,7 @@ namespace StackAPI.Services.Implementations
                 $"site={_site}";
         }
 
-        private static List<StackTagDto> GetTagsWithPercentage(IEnumerable<StackTag> tags)
+        private static async Task<List<StackTagDto>> GetTagsWithPercentageAsync(IEnumerable<StackTag> tags)
         {
             if (tags.Count() < 0)
             {
@@ -101,12 +128,15 @@ namespace StackAPI.Services.Implementations
             }
             var totalTagCount = tags.Sum(tag => tag.Count);
 
-            return tags.Select(tag => new StackTagDto
+            List<StackTagDto> result = tags.Select(tag => new StackTagDto
             {
                 Name = tag.Name,
                 Count = tag.Count,
                 Popular = (double)tag.Count / totalTagCount * 100
             }).ToList();
+
+            await _stackTagSerializer.SaveTagsAsync(result);
+            return result;
         }
 
         private static JsonSerializerOptions GetJsonOptions()

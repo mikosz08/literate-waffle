@@ -22,6 +22,13 @@ namespace StackAPI.Controllers
             return Ok(tags);
         }
 
+        [HttpGet("RefreshTags")]
+        public async Task<IActionResult> RefreshTags()
+        {
+            var tags = await _stackService.ForceRefreshStackTagsAsync();
+            return Ok(tags);
+        }
+
         [HttpGet("PagedTags")]
         public async Task<IActionResult> GetPagedTags([FromQuery] PagingOptions options)
         {
