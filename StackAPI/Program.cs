@@ -1,4 +1,5 @@
-﻿using StackAPI.Services.Implementations;
+﻿using Microsoft.OpenApi.Models;
+using StackAPI.Services.Implementations;
 using StackAPI.Services.Interfaces;
 
 
@@ -21,12 +22,20 @@ namespace StackAPI
                 AutomaticDecompression = System.Net.DecompressionMethods.GZip
             });
 
+            builder.Services.AddSwaggerGen(s =>
+            {
+                s.SwaggerDoc("v1", new OpenApiInfo { Title = "My REST API", Version = "v1" });
+            });
+
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
-                app.UseSwaggerUI();
+                app.UseSwaggerUI(s =>
+                {
+                    s.SwaggerEndpoint("/swagger/v1/swagger.json", "My REST API V1");
+                });
             }
 
             app.UseAuthorization();
