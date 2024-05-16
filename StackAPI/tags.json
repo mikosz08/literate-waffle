@@ -1,5002 +1,5002 @@
 [
   {
     "name": ".a",
-    "count": 147,
-    "popular": 0.01537816154601784
+    "count": 148,
+    "popular": 0.015370778488387792
   },
   {
     "name": ".app",
     "count": 163,
-    "popular": 0.017051975047625224
+    "popular": 0.016928627659508175
   },
   {
     "name": ".aspxauth",
     "count": 64,
-    "popular": 0.006695254006429536
+    "popular": 0.006646823130113639
   },
   {
     "name": ".class-file",
-    "count": 283,
-    "popular": 0.029605576309680606
+    "count": 284,
+    "popular": 0.02949527763987928
   },
   {
     "name": ".cod-file",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": ".csproj.in",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": ".ctf",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": ".d.ts",
-    "count": 161,
-    "popular": 0.016842748359924303
-  },
-  {
-    "name": ".data",
-    "count": 4,
-    "popular": 0.000418453375401846
+    "count": 160,
+    "popular": 0.0166170578252841
   },
   {
     "name": ".doc",
     "count": 154,
-    "popular": 0.01611045495297107
+    "popular": 0.015993918156835946
   },
   {
     "name": ".emf",
     "count": 64,
-    "popular": 0.006695254006429536
+    "popular": 0.006646823130113639
   },
   {
     "name": ".env",
-    "count": 191,
-    "popular": 0.019981148675438147
+    "count": 199,
+    "popular": 0.0206674656701971
   },
   {
     "name": ".git-folder",
     "count": 39,
-    "popular": 0.004079920410167998
+    "popular": 0.004050407844913
   },
   {
     "name": ".git-info-grafts",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": ".gz",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": ".hgtags",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": ".htaccess",
-    "count": 73113,
-    "popular": 7.648595408938792
+    "count": 73142,
+    "popular": 7.59628027160581
   },
   {
     "name": ".htpasswd",
-    "count": 532,
-    "popular": 0.05565429892844552
+    "count": 531,
+    "popular": 0.055147860657661606
   },
   {
     "name": ".http-files",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": ".ico",
     "count": 31,
-    "popular": 0.0032430136593643065
+    "popular": 0.0032195549536487944
   },
   {
     "name": ".lib",
     "count": 132,
-    "popular": 0.013808961388260918
+    "popular": 0.013709072705859384
   },
   {
     "name": ".lrc",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": ".mobi",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": ".mov",
-    "count": 54,
-    "popular": 0.005649120567924921
+    "count": 55,
+    "popular": 0.005712113627441409
   },
   {
     "name": ".net",
-    "count": 337939,
-    "popular": 35.352928807481106
+    "count": 338646,
+    "popular": 35.170626026882246
   },
   {
     "name": ".net-1.0",
     "count": 28,
-    "popular": 0.002929173627812922
+    "popular": 0.0029079851194247176
   },
   {
     "name": ".net-1.1",
     "count": 371,
-    "popular": 0.038811550568521216
+    "popular": 0.03853080283237751
   },
   {
     "name": ".net-2.0",
     "count": 2576,
-    "popular": 0.26948397375878885
+    "popular": 0.26753463098707403
   },
   {
     "name": ".net-3.0",
     "count": 112,
-    "popular": 0.011716694511251688
+    "popular": 0.01163194047769887
   },
   {
     "name": ".net-3.5",
-    "count": 5937,
-    "popular": 0.6210894224401899
+    "count": 5938,
+    "popular": 0.6167005585408561
   },
   {
     "name": ".net-4.0",
-    "count": 8821,
-    "popular": 0.922794306104921
+    "count": 8816,
+    "popular": 0.9155998861731539
   },
   {
     "name": ".net-4.0-beta-2",
     "count": 17,
-    "popular": 0.0017784268454578457
+    "popular": 0.0017655623939364356
   },
   {
     "name": ".net-4.5",
-    "count": 3785,
-    "popular": 0.3959615064739968
+    "count": 3784,
+    "popular": 0.392993417567969
   },
   {
     "name": ".net-4.5.2",
     "count": 139,
-    "popular": 0.014541254795214148
+    "popular": 0.014436068985715561
   },
   {
     "name": ".net-4.6",
-    "count": 443,
-    "popular": 0.04634371132575444
+    "count": 442,
+    "popular": 0.04590462224234733
   },
   {
     "name": ".net-4.6.1",
-    "count": 278,
-    "popular": 0.029082509590428296
+    "count": 279,
+    "popular": 0.028975994582839146
   },
   {
     "name": ".net-4.6.2",
-    "count": 161,
-    "popular": 0.016842748359924303
+    "count": 162,
+    "popular": 0.01682477104810015
   },
   {
     "name": ".net-4.7",
-    "count": 115,
-    "popular": 0.012030534542803072
+    "count": 113,
+    "popular": 0.011735797089106895
   },
   {
     "name": ".net-4.7.1",
-    "count": 60,
-    "popular": 0.006276800631027691
+    "count": 62,
+    "popular": 0.006439109907297589
   },
   {
     "name": ".net-4.7.2",
-    "count": 330,
-    "popular": 0.034522403470652295
+    "count": 338,
+    "popular": 0.035103534655912656
   },
   {
     "name": ".net-4.8",
-    "count": 1144,
-    "popular": 0.11967766536492795
+    "count": 1192,
+    "popular": 0.12379708079836653
   },
   {
     "name": ".net-5",
-    "count": 3049,
-    "popular": 0.3189660854000571
+    "count": 3052,
+    "popular": 0.3169703780172942
   },
   {
     "name": ".net-6.0",
-    "count": 5899,
-    "popular": 0.6171141153738724
+    "count": 5911,
+    "popular": 0.6138964300328394
   },
   {
     "name": ".net-7.0",
-    "count": 1500,
-    "popular": 0.15692001577569226
-  },
-  {
-    "name": ".net8",
-    "count": 0,
-    "popular": 0
+    "count": 1518,
+    "popular": 0.15765433611738291
   },
   {
     "name": ".net-8.0",
-    "count": 1047,
-    "popular": 0.10953017101143318
+    "count": 1345,
+    "popular": 0.13968714234379448
   },
   {
     "name": ".net-assembly",
-    "count": 3361,
-    "popular": 0.35160544868140114
+    "count": 3364,
+    "popular": 0.3493736407765982
   },
   {
     "name": ".net-attributes",
-    "count": 32,
-    "popular": 0.003347627003214768
+    "count": 33,
+    "popular": 0.003427268176464846
   },
   {
     "name": ".net-bcl",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": ".net-cf-3.5",
     "count": 147,
-    "popular": 0.01537816154601784
+    "popular": 0.015266921876979766
   },
   {
     "name": ".net-client-profile",
     "count": 74,
-    "popular": 0.007741387444934151
+    "popular": 0.007685389244193896
   },
   {
     "name": ".net-core",
-    "count": 45024,
-    "popular": 4.710111193523179
+    "count": 45242,
+    "popular": 4.698680813321896
   },
   {
     "name": ".net-core-1.1",
     "count": 30,
-    "popular": 0.0031384003155138455
+    "popular": 0.003115698342240769
   },
   {
     "name": ".net-core-2.0",
-    "count": 342,
-    "popular": 0.03577776359685784
+    "count": 343,
+    "popular": 0.03562281771295279
   },
   {
     "name": ".net-core-2.1",
-    "count": 177,
-    "popular": 0.018516561861531687
+    "count": 178,
+    "popular": 0.01848647683062856
   },
   {
     "name": ".net-core-2.2",
-    "count": 224,
-    "popular": 0.023433389022503377
+    "count": 225,
+    "popular": 0.023367737566805765
   },
   {
     "name": ".net-core-3.0",
     "count": 631,
-    "popular": 0.0660110199696412
+    "popular": 0.06553352179846417
   },
   {
     "name": ".net-core-3.1",
-    "count": 981,
-    "popular": 0.10262569031730273
+    "count": 982,
+    "popular": 0.10198719240268116
   },
   {
     "name": ".net-core-5-preview-2",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": ".net-core-angular",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": ".net-core-authorization",
     "count": 17,
-    "popular": 0.0017784268454578457
+    "popular": 0.0017655623939364356
   },
   {
     "name": ".net-core-class-library",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": ".net-core-configuration",
     "count": 29,
-    "popular": 0.0030337869716633836
+    "popular": 0.003011841730832743
   },
   {
     "name": ".net-core-logging",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": ".net-core-publishsinglefile",
     "count": 32,
-    "popular": 0.003347627003214768
+    "popular": 0.0033234115650568196
   },
   {
     "name": ".net-core-rc1",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": ".net-core-rc2",
     "count": 170,
-    "popular": 0.017784268454578457
+    "popular": 0.017655623939364356
   },
   {
     "name": ".net-core-sdk",
     "count": 14,
-    "popular": 0.001464586813906461
+    "popular": 0.0014539925597123588
   },
   {
     "name": ".net-core-service-worker",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": ".net-datasourcecontrol",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": ".net-fiddle",
     "count": 15,
-    "popular": 0.0015692001577569227
+    "popular": 0.0015578491711203844
   },
   {
     "name": ".net-framework-4.8",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": ".net-framework-version",
-    "count": 1112,
-    "popular": 0.11633003836171318
+    "count": 1118,
+    "popular": 0.11611169155417264
   },
   {
     "name": ".net-gadgeteer",
     "count": 24,
-    "popular": 0.002510720252411076
+    "popular": 0.002492558673792615
   },
   {
     "name": ".net-generic-math",
-    "count": 19,
-    "popular": 0.0019876535331587683
+    "count": 20,
+    "popular": 0.0020771322281605124
   },
   {
     "name": ".net-interactive",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": ".net-internals",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": ".net-ios",
-    "count": 4,
-    "popular": 0.000418453375401846
+    "count": 7,
+    "popular": 0.0007269962798561794
   },
   {
     "name": ".net-mac",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": ".net-maui",
-    "count": 533,
-    "popular": 0.05575891227229598
+    "count": 532,
+    "popular": 0.05525171726906963
   },
   {
     "name": ".net-maui.shell",
-    "count": 103,
-    "popular": 0.010775174416597534
+    "count": 107,
+    "popular": 0.011112657420658742
   },
   {
     "name": ".net-micro-framework",
     "count": 235,
-    "popular": 0.024584135804858454
+    "popular": 0.024406303680886022
   },
   {
     "name": ".net-native",
-    "count": 149,
-    "popular": 0.015587388233718764
+    "count": 150,
+    "popular": 0.015578491711203842
   },
   {
     "name": ".net-ngif",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": ".netrc",
     "count": 53,
-    "popular": 0.00554450722407446
+    "popular": 0.005504400404625358
   },
   {
     "name": ".net-reflector",
     "count": 81,
-    "popular": 0.008473680851887381
+    "popular": 0.008412385524050076
   },
   {
     "name": ".net-remoting",
     "count": 280,
-    "popular": 0.029291736278129223
+    "popular": 0.029079851194247174
   },
   {
     "name": ".net-rtf-writer",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": ".net-runtime",
-    "count": 39,
-    "popular": 0.004079920410167998
+    "count": 40,
+    "popular": 0.004154264456321025
   },
   {
     "name": ".net-sdk",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": ".net-security",
     "count": 48,
-    "popular": 0.005021440504822152
+    "popular": 0.00498511734758523
   },
   {
     "name": ".net-services",
-    "count": 19,
-    "popular": 0.0019876535331587683
+    "count": 18,
+    "popular": 0.0018694190053444612
   },
   {
     "name": ".net-spark",
     "count": 24,
-    "popular": 0.002510720252411076
+    "popular": 0.002492558673792615
   },
   {
     "name": ".net-standard",
-    "count": 1622,
-    "popular": 0.16968284372544856
+    "count": 1628,
+    "popular": 0.16907856337226573
   },
   {
     "name": ".net-standard-1.4",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": ".net-standard-1.5",
     "count": 29,
-    "popular": 0.0030337869716633836
+    "popular": 0.003011841730832743
   },
   {
     "name": ".net-standard-1.6",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": ".net-standard-2.0",
-    "count": 784,
-    "popular": 0.08201686157876181
+    "count": 787,
+    "popular": 0.08173515317811617
   },
   {
     "name": ".net-standard-2.1",
-    "count": 73,
-    "popular": 0.00763677410108369
+    "count": 75,
+    "popular": 0.007789245855601921
   },
   {
     "name": ".nettiers",
     "count": 58,
-    "popular": 0.006067573943326767
+    "popular": 0.006023683461665486
   },
   {
     "name": ".net-trace",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": ".net-traceprocessing",
     "count": 20,
-    "popular": 0.00209226687700923
+    "popular": 0.0020771322281605124
   },
   {
     "name": ".npmrc",
-    "count": 64,
-    "popular": 0.006695254006429536
+    "count": 63,
+    "popular": 0.006542966518705614
   },
   {
     "name": ".obj",
-    "count": 341,
-    "popular": 0.03567315025300737
+    "count": 338,
+    "popular": 0.035103534655912656
   },
   {
     "name": ".post",
     "count": 273,
-    "popular": 0.02855944287117599
+    "popular": 0.028352854914390994
   },
   {
     "name": ".profile",
-    "count": 94,
-    "popular": 0.00983365432194338
+    "count": 95,
+    "popular": 0.009866378083762433
   },
   {
     "name": ".railsrc",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": ".refresh",
     "count": 17,
-    "popular": 0.0017784268454578457
+    "popular": 0.0017655623939364356
   },
   {
     "name": ".sbr",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": ".searchable",
-    "count": 10,
-    "popular": 0.001046133438504615
+    "count": 13,
+    "popular": 0.001350135948304333
   },
   {
     "name": ".so",
-    "count": 363,
-    "popular": 0.03797464381771752
+    "count": 365,
+    "popular": 0.03790766316392936
   },
   {
     "name": ".vhdx",
-    "count": 3,
-    "popular": 0.0003138400315513845
+    "count": 5,
+    "popular": 0.0005192830570401281
   },
   {
     "name": ".when",
     "count": 175,
-    "popular": 0.018307335173830763
+    "popular": 0.018174906996404484
   },
   {
     "name": ".x",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": ".xproj",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "05ab1e",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "100mslive",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "1010data",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "10gen-csharp-driver",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "128-bit",
-    "count": 87,
-    "popular": 0.00910136091499015
+    "count": 88,
+    "popular": 0.009139381803906256
   },
   {
     "name": "12factor",
     "count": 94,
-    "popular": 0.00983365432194338
+    "popular": 0.009762521472354409
   },
   {
     "name": "16-bit",
-    "count": 418,
-    "popular": 0.04372837772949291
+    "count": 420,
+    "popular": 0.04361977679137076
   },
   {
     "name": "1c",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "1password",
-    "count": 28,
-    "popular": 0.002929173627812922
+    "count": 30,
+    "popular": 0.003115698342240769
   },
   {
     "name": "1wire",
     "count": 32,
-    "popular": 0.003347627003214768
+    "popular": 0.0033234115650568196
   },
   {
     "name": "2.5d",
     "count": 36,
-    "popular": 0.003766080378616614
+    "popular": 0.0037388380106889224
   },
   {
     "name": "2009scape",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "2048",
     "count": 64,
-    "popular": 0.006695254006429536
+    "popular": 0.006646823130113639
   },
   {
     "name": "21cfr11",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "2-3-4-tree",
     "count": 34,
-    "popular": 0.0035568536909156914
+    "popular": 0.003531124787872871
   },
   {
     "name": "23andme-api",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "2-3-tree",
     "count": 21,
-    "popular": 0.0021968802208596912
+    "popular": 0.002180988839568538
   },
   {
     "name": "24-bit",
     "count": 64,
-    "popular": 0.006695254006429536
+    "popular": 0.006646823130113639
   },
   {
     "name": "256color",
     "count": 30,
-    "popular": 0.0031384003155138455
+    "popular": 0.003115698342240769
   },
   {
     "name": "2captcha",
-    "count": 121,
-    "popular": 0.01265821460590584
+    "count": 117,
+    "popular": 0.012151223534738999
   },
   {
     "name": "2checkout",
     "count": 165,
-    "popular": 0.017261201735326148
+    "popular": 0.017136340882324227
   },
   {
     "name": "2d",
-    "count": 7550,
-    "popular": 0.7898307460709844
+    "count": 7565,
+    "popular": 0.7856752653017138
   },
   {
     "name": "2d-3d-conversion",
     "count": 28,
-    "popular": 0.002929173627812922
+    "popular": 0.0029079851194247176
   },
   {
     "name": "2d-context-api",
     "count": 24,
-    "popular": 0.002510720252411076
+    "popular": 0.002492558673792615
   },
   {
     "name": "2d-engine",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "2d-games",
-    "count": 1121,
-    "popular": 0.11727155845636734
+    "count": 1123,
+    "popular": 0.11663097461121277
   },
   {
     "name": "2-digit-year",
     "count": 39,
-    "popular": 0.004079920410167998
+    "popular": 0.004050407844913
   },
   {
     "name": "2dsphere",
     "count": 70,
-    "popular": 0.007322934069532306
+    "popular": 0.0072699627985617936
   },
   {
     "name": "2d-vector",
-    "count": 146,
-    "popular": 0.01527354820216738
+    "count": 147,
+    "popular": 0.015266921876979766
   },
   {
     "name": "2-legged",
     "count": 47,
-    "popular": 0.00491682716097169
+    "popular": 0.004881260736177204
   },
   {
     "name": "2phase-commit",
-    "count": 70,
-    "popular": 0.007322934069532306
+    "count": 71,
+    "popular": 0.00737381940996982
   },
   {
     "name": "2-satisfiability",
     "count": 21,
-    "popular": 0.0021968802208596912
+    "popular": 0.002180988839568538
   },
   {
     "name": "2sxc",
-    "count": 611,
-    "popular": 0.06391875309263198
+    "count": 616,
+    "popular": 0.06397567262734379
   },
   {
     "name": "2-tier",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "2-way-object-databinding",
-    "count": 335,
-    "popular": 0.0350454701899046
+    "count": 337,
+    "popular": 0.034999678044504635
   },
   {
     "name": "3270",
     "count": 38,
-    "popular": 0.0039753070663175365
+    "popular": 0.003946551233504974
   },
   {
     "name": "32-bit",
-    "count": 1403,
-    "popular": 0.1467725214221975
+    "count": 1402,
+    "popular": 0.14560696919405192
   },
   {
     "name": "32bit-64bit",
     "count": 2633,
-    "popular": 0.2754469343582651
+    "popular": 0.27345445783733147
   },
   {
     "name": "32feet",
-    "count": 154,
-    "popular": 0.01611045495297107
+    "count": 153,
+    "popular": 0.015890061545427922
   },
   {
     "name": "34grid",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "360-degrees",
-    "count": 197,
-    "popular": 0.020608828738540915
+    "count": 198,
+    "popular": 0.020563609058789074
   },
   {
     "name": "360entsecgroup-skylar-excelize",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "360-panorama",
-    "count": 152,
-    "popular": 0.015901228265270146
+    "count": 154,
+    "popular": 0.015993918156835946
   },
   {
     "name": "360-panorama-viewer",
-    "count": 40,
-    "popular": 0.00418453375401846
+    "count": 39,
+    "popular": 0.004050407844913
   },
   {
     "name": "360-video",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "360-virtual-reality",
     "count": 179,
-    "popular": 0.018725788549232607
+    "popular": 0.01859033344203659
   },
   {
     "name": "37-signals",
     "count": 22,
-    "popular": 0.002301493564710153
+    "popular": 0.002284845450976564
   },
   {
     "name": "389ds",
-    "count": 1,
-    "popular": 0.0001046133438504615
+    "count": 2,
+    "popular": 0.00020771322281605122
   },
   {
     "name": "3cx",
     "count": 30,
-    "popular": 0.0031384003155138455
+    "popular": 0.003115698342240769
   },
   {
     "name": "3d",
-    "count": 17210,
-    "popular": 1.8003956476664424
+    "count": 17238,
+    "popular": 1.7902802674515457
   },
   {
     "name": "3d.io",
     "count": 38,
-    "popular": 0.0039753070663175365
+    "popular": 0.003946551233504974
   },
   {
     "name": "3dcamera",
-    "count": 33,
-    "popular": 0.0034522403470652295
+    "count": 32,
+    "popular": 0.0033234115650568196
   },
   {
     "name": "3d-convolution",
-    "count": 20,
-    "popular": 0.00209226687700923
+    "count": 18,
+    "popular": 0.0018694190053444612
   },
   {
     "name": "3d-engine",
-    "count": 67,
-    "popular": 0.007009094037980921
+    "count": 68,
+    "popular": 0.007062249575745742
   },
   {
     "name": "3des",
     "count": 359,
-    "popular": 0.03755619044231568
+    "popular": 0.0372845234954812
   },
   {
     "name": "3d-mapping",
     "count": 21,
-    "popular": 0.0021968802208596912
+    "popular": 0.002180988839568538
   },
   {
     "name": "3d-model",
-    "count": 354,
-    "popular": 0.037033123723063374
+    "count": 353,
+    "popular": 0.036661383827033045
   },
   {
     "name": "3d-modelling",
-    "count": 327,
-    "popular": 0.03420856343910091
+    "count": 329,
+    "popular": 0.034168825153240434
   },
   {
     "name": "3d-printing",
-    "count": 39,
-    "popular": 0.004079920410167998
+    "count": 40,
+    "popular": 0.004154264456321025
   },
   {
     "name": "3dr",
     "count": 14,
-    "popular": 0.001464586813906461
+    "popular": 0.0014539925597123588
   },
   {
     "name": "3d-reconstruction",
-    "count": 371,
-    "popular": 0.038811550568521216
+    "count": 372,
+    "popular": 0.03863465944378553
   },
   {
     "name": "3d-rendering",
     "count": 80,
-    "popular": 0.00836906750803692
+    "popular": 0.00830852891264205
   },
   {
     "name": "3ds",
     "count": 141,
-    "popular": 0.014750481482915074
+    "popular": 0.014643782208531613
   },
   {
     "name": "3d-secure",
-    "count": 145,
-    "popular": 0.015168934858316918
+    "count": 143,
+    "popular": 0.014851495431347663
   },
   {
     "name": "3dsmax",
     "count": 593,
-    "popular": 0.062035712903323666
+    "popular": 0.061586970564959195
   },
   {
     "name": "3d-texture",
     "count": 38,
-    "popular": 0.0039753070663175365
+    "popular": 0.003946551233504974
   },
   {
     "name": "3dtouch",
     "count": 361,
-    "popular": 0.0377654171300166
+    "popular": 0.037492236718297246
   },
   {
     "name": "3g",
-    "count": 535,
-    "popular": 0.05596813895999691
+    "count": 536,
+    "popular": 0.05566714371470174
   },
   {
     "name": "3g-network",
     "count": 56,
-    "popular": 0.005858347255625844
+    "popular": 0.005815970238849435
   },
   {
     "name": "3gp",
-    "count": 102,
-    "popular": 0.010670561072747073
+    "count": 103,
+    "popular": 0.01069723097502664
   },
   {
     "name": "3nf",
     "count": 205,
-    "popular": 0.021445735489344607
+    "popular": 0.02129060533864525
   },
   {
     "name": "3scale",
     "count": 32,
-    "popular": 0.003347627003214768
+    "popular": 0.0033234115650568196
   },
   {
     "name": "3-tier",
-    "count": 371,
-    "popular": 0.038811550568521216
+    "count": 369,
+    "popular": 0.038323089609561455
   },
   {
     "name": "3-way-merge",
     "count": 25,
-    "popular": 0.0026153335962615376
+    "popular": 0.002596415285200641
   },
   {
     "name": "400-bad-request",
-    "count": 63,
-    "popular": 0.006590640662579074
+    "count": 68,
+    "popular": 0.007062249575745742
   },
   {
     "name": "4d",
     "count": 145,
-    "popular": 0.015168934858316918
+    "popular": 0.015059208654163716
   },
   {
     "name": "4d-database",
     "count": 116,
-    "popular": 0.012135147886653534
+    "popular": 0.012047366923330973
   },
   {
     "name": "4g",
-    "count": 167,
-    "popular": 0.01747042842302707
+    "count": 170,
+    "popular": 0.017655623939364356
   },
   {
     "name": "4gl",
     "count": 175,
-    "popular": 0.018307335173830763
-  },
-  {
-    "name": "4js",
-    "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.018174906996404484
   },
   {
     "name": "4store",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "500px",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "51degrees",
     "count": 58,
-    "popular": 0.006067573943326767
+    "popular": 0.006023683461665486
   },
   {
     "name": "5g",
-    "count": 43,
-    "popular": 0.004498373785569845
+    "count": 44,
+    "popular": 0.004569690901953128
   },
   {
     "name": "64-bit",
-    "count": 6100,
-    "popular": 0.6381413974878152
+    "count": 6104,
+    "popular": 0.6339407560345884
   },
   {
     "name": "6502",
-    "count": 240,
-    "popular": 0.025107202524110764
+    "count": 241,
+    "popular": 0.02502944334933417
   },
   {
     "name": "6510",
     "count": 20,
-    "popular": 0.00209226687700923
+    "popular": 0.0020771322281605124
   },
   {
     "name": "65816",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "6800",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "68000",
     "count": 240,
-    "popular": 0.025107202524110764
+    "popular": 0.02492558673792615
   },
   {
     "name": "68hc",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "68hc08",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "68hc11",
-    "count": 40,
-    "popular": 0.00418453375401846
+    "count": 39,
+    "popular": 0.004050407844913
   },
   {
     "name": "68hc12",
     "count": 50,
-    "popular": 0.005230667192523075
+    "popular": 0.005192830570401282
   },
   {
     "name": "6lowpan",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "6nf",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "777",
     "count": 30,
-    "popular": 0.0031384003155138455
+    "popular": 0.003115698342240769
   },
   {
     "name": "7-bit",
     "count": 37,
-    "popular": 0.0038706937224670755
+    "popular": 0.003842694622096948
   },
   {
     "name": "7digital",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "7zip",
     "count": 1451,
-    "popular": 0.15179396192701963
+    "popular": 0.1506959431530452
   },
   {
     "name": "80186",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "802.11p",
-    "count": 21,
-    "popular": 0.0021968802208596912
+    "count": 23,
+    "popular": 0.002388702062384589
   },
   {
     "name": "80286",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "8051",
-    "count": 486,
-    "popular": 0.05084208511132429
+    "count": 485,
+    "popular": 0.05037045653289243
   },
   {
     "name": "8085",
     "count": 115,
-    "popular": 0.012030534542803072
+    "popular": 0.011943510311922947
   },
   {
     "name": "8-bit",
-    "count": 219,
-    "popular": 0.022910322303251067
+    "count": 220,
+    "popular": 0.022848454509765637
   },
   {
     "name": "8th",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "8thwall-web",
-    "count": 46,
-    "popular": 0.004812213817121229
+    "count": 49,
+    "popular": 0.005088973958993256
   },
   {
     "name": "8thwall-xr",
     "count": 62,
-    "popular": 0.006486027318728613
+    "popular": 0.006439109907297589
   },
   {
     "name": "960.gs",
     "count": 296,
-    "popular": 0.030965549779736604
+    "popular": 0.030741556976775584
   },
   {
     "name": "9-bit-serial",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "a0poster",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "a2dp",
-    "count": 134,
-    "popular": 0.014018188075961842
+    "count": 132,
+    "popular": 0.013709072705859384
   },
   {
     "name": "a2enmod",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "a2hs",
-    "count": 11,
-    "popular": 0.0011507467823550766
+    "count": 12,
+    "popular": 0.0012462793368963076
   },
   {
     "name": "a2lix-translation",
     "count": 50,
-    "popular": 0.005230667192523075
+    "popular": 0.005192830570401282
   },
   {
     "name": "a2x",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "a4swift",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "a86",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "aaacertificateservices",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "aaa-security-protocol",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": "aabb",
     "count": 133,
-    "popular": 0.01391357473211138
+    "popular": 0.013812929317267408
   },
   {
     "name": "aac",
-    "count": 610,
-    "popular": 0.06381413974878151
+    "count": 612,
+    "popular": 0.06356024618171169
   },
   {
     "name": "aac\u002B",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "aad-b2c",
-    "count": 118,
-    "popular": 0.012344374574354456
+    "count": 85,
+    "popular": 0.008827811969682178
   },
   {
     "name": "aadhaar",
-    "count": 27,
-    "popular": 0.0028245602839624606
+    "count": 28,
+    "popular": 0.0029079851194247176
   },
   {
     "name": "aadhttpclient",
-    "count": 7,
-    "popular": 0.0007322934069532305
+    "count": 5,
+    "popular": 0.0005192830570401281
   },
   {
     "name": "aad-pod-identity",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "aaos",
-    "count": 6,
-    "popular": 0.000627680063102769
+    "count": 8,
+    "popular": 0.0008308528912642049
   },
   {
     "name": "aapt",
     "count": 476,
-    "popular": 0.04979595167281968
+    "popular": 0.049435747030220197
   },
   {
     "name": "aapt2",
-    "count": 147,
-    "popular": 0.01537816154601784
+    "count": 152,
+    "popular": 0.015786204934019894
   },
   {
     "name": "aar",
-    "count": 1007,
-    "popular": 0.10534563725741472
+    "count": 1009,
+    "popular": 0.10479132091069786
   },
   {
     "name": "aasa",
-    "count": 24,
-    "popular": 0.002510720252411076
+    "count": 27,
+    "popular": 0.002804128508016692
   },
   {
     "name": "aasm",
     "count": 131,
-    "popular": 0.013704348044410458
+    "popular": 0.013605216094451358
   },
   {
     "name": "aatl",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "aba",
-    "count": 12,
-    "popular": 0.001255360126205538
+    "count": 11,
+    "popular": 0.001142422725488282
   },
   {
     "name": "abac",
-    "count": 288,
-    "popular": 0.03012864302893291
+    "count": 289,
+    "popular": 0.030014560696919407
   },
   {
     "name": "abaddressbook",
     "count": 812,
-    "popular": 0.08494603520657475
+    "popular": 0.08433156846331681
   },
   {
     "name": "abaddressbooksource",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "abandoned-memory",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "abandonedmutexexception",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "abap",
-    "count": 3372,
-    "popular": 0.3527561954637562
+    "count": 3390,
+    "popular": 0.35207391267320687
   },
   {
     "name": "abap-adt",
-    "count": 29,
-    "popular": 0.0030337869716633836
+    "count": 28,
+    "popular": 0.0029079851194247176
   },
   {
     "name": "abap-st",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "abaqus",
-    "count": 631,
-    "popular": 0.0660110199696412
+    "count": 634,
+    "popular": 0.06584509163268824
   },
   {
     "name": "abaqus-odb",
     "count": 14,
-    "popular": 0.001464586813906461
+    "popular": 0.0014539925597123588
   },
   {
     "name": "abas",
     "count": 18,
-    "popular": 0.001883040189308307
+    "popular": 0.0018694190053444612
   },
   {
     "name": "abb-control-systems",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "abbot",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "abbr",
     "count": 35,
-    "popular": 0.003661467034766153
+    "popular": 0.0036349813992808968
   },
   {
     "name": "abbrevia",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "abbreviation",
-    "count": 209,
-    "popular": 0.021864188864746455
+    "count": 210,
+    "popular": 0.02180988839568538
   },
   {
     "name": "abbyy",
     "count": 119,
-    "popular": 0.01244898791820492
+    "popular": 0.012358936757555049
   },
   {
     "name": "abbyy-cloud-ocr",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "abc",
-    "count": 266,
-    "popular": 0.02782714946422276
+    "count": 268,
+    "popular": 0.02783357185735087
   },
   {
     "name": "abcjs",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "abcl",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "abc-notation",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "abcpdf",
     "count": 341,
-    "popular": 0.03567315025300737
+    "popular": 0.03541510449013674
   },
   {
     "name": "abcpdf9",
     "count": 31,
-    "popular": 0.0032430136593643065
+    "popular": 0.0032195549536487944
   },
   {
     "name": "abcustomuinavcontroller",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "abi",
-    "count": 917,
-    "popular": 0.0959304363108732
+    "count": 925,
+    "popular": 0.0960673655524237
   },
   {
     "name": "abide",
     "count": 35,
-    "popular": 0.003661467034766153
+    "popular": 0.0036349813992808968
   },
   {
     "name": "ab-initio",
-    "count": 99,
-    "popular": 0.010356721041195689
+    "count": 100,
+    "popular": 0.010385661140802563
   },
   {
     "name": "abiword",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "ablecommerce",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "ableton-live",
     "count": 64,
-    "popular": 0.006695254006429536
+    "popular": 0.006646823130113639
   },
   {
     "name": "abline",
     "count": 24,
-    "popular": 0.002510720252411076
+    "popular": 0.002492558673792615
   },
   {
     "name": "ablog",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "ably-realtime",
-    "count": 60,
-    "popular": 0.006276800631027691
+    "count": 59,
+    "popular": 0.0061275400730735115
   },
   {
     "name": "abmultivalue",
     "count": 14,
-    "popular": 0.001464586813906461
+    "popular": 0.0014539925597123588
   },
   {
     "name": "abnf",
-    "count": 38,
-    "popular": 0.0039753070663175365
+    "count": 36,
+    "popular": 0.0037388380106889224
   },
   {
     "name": "abort",
-    "count": 663,
-    "popular": 0.06935864697285599
+    "count": 664,
+    "popular": 0.06896078997492901
   },
   {
     "name": "abortbroadcast",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "abortcontroller",
-    "count": 47,
-    "popular": 0.00491682716097169
+    "count": 48,
+    "popular": 0.00498511734758523
   },
   {
     "name": "abot",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "about-box",
     "count": 46,
-    "popular": 0.004812213817121229
+    "popular": 0.004777404124769178
   },
   {
     "name": "abp",
-    "count": 865,
-    "popular": 0.09049054243064919
+    "count": 882,
+    "popular": 0.09160153126187859
   },
   {
     "name": "abp.io",
-    "count": 19,
-    "popular": 0.0019876535331587683
+    "count": 20,
+    "popular": 0.0020771322281605124
   },
   {
     "name": "abpeoplepickerview",
     "count": 131,
-    "popular": 0.013704348044410458
+    "popular": 0.013605216094451358
   },
   {
     "name": "abperson",
     "count": 38,
-    "popular": 0.0039753070663175365
+    "popular": 0.003946551233504974
   },
   {
     "name": "abpersonviewcontroller",
     "count": 82,
-    "popular": 0.008578294195737843
+    "popular": 0.008516242135458102
   },
   {
     "name": "abp-framework",
-    "count": 10,
-    "popular": 0.001046133438504615
+    "count": 12,
+    "popular": 0.0012462793368963076
   },
   {
     "name": "abrecord",
     "count": 47,
-    "popular": 0.00491682716097169
+    "popular": 0.004881260736177204
   },
   {
     "name": "abrecordcopyvalue",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "abrecordref",
     "count": 33,
-    "popular": 0.0034522403470652295
+    "popular": 0.003427268176464846
   },
   {
     "name": "abrt",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "abseil",
-    "count": 58,
-    "popular": 0.006067573943326767
+    "count": 59,
+    "popular": 0.0061275400730735115
   },
   {
     "name": "absinthe",
     "count": 84,
-    "popular": 0.008787520883438765
+    "popular": 0.008723955358274152
   },
   {
     "name": "absinthe-subscription",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "absl-py",
-    "count": 14,
-    "popular": 0.001464586813906461
+    "count": 16,
+    "popular": 0.0016617057825284098
   },
   {
     "name": "absolute",
-    "count": 1354,
-    "popular": 0.14164646757352486
+    "count": 1350,
+    "popular": 0.1402064254008346
   },
   {
     "name": "absolute-db",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "absolutelayout",
-    "count": 170,
-    "popular": 0.017784268454578457
+    "count": 171,
+    "popular": 0.01775948055077238
   },
   {
     "name": "absolute-path",
     "count": 846,
-    "popular": 0.08850288889749043
+    "popular": 0.08786269325118967
   },
   {
     "name": "absolute-value",
-    "count": 226,
-    "popular": 0.0236426157102043
+    "count": 227,
+    "popular": 0.023575450789621817
   },
   {
     "name": "abstract",
-    "count": 2536,
-    "popular": 0.2652994400047704
+    "count": 2539,
+    "popular": 0.26369193636497706
   },
   {
     "name": "abstract-action",
     "count": 25,
-    "popular": 0.0026153335962615376
+    "popular": 0.002596415285200641
   },
   {
     "name": "abstract-algebra",
     "count": 42,
-    "popular": 0.0043937604417193825
+    "popular": 0.004361977679137076
   },
   {
     "name": "abstract-base-class",
     "count": 121,
-    "popular": 0.01265821460590584
+    "popular": 0.012566649980371101
   },
   {
     "name": "abstract-class",
-    "count": 5325,
-    "popular": 0.5570660560037075
+    "count": 5322,
+    "popular": 0.5527248859135123
   },
   {
     "name": "abstract-data-type",
-    "count": 476,
-    "popular": 0.04979595167281968
+    "count": 474,
+    "popular": 0.04922803380740414
   },
   {
     "name": "abstractexcelview",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "abstract-factory",
-    "count": 254,
-    "popular": 0.02657178933801722
+    "count": 255,
+    "popular": 0.026483435909046536
   },
   {
     "name": "abstract-function",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "abstract-interpretation",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "abstraction",
-    "count": 1133,
-    "popular": 0.11852691858257287
+    "count": 1135,
+    "popular": 0.11787725394810909
   },
   {
     "name": "abstraction-layer",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "abstract-machine",
     "count": 12,
-    "popular": 0.001255360126205538
+    "popular": 0.0012462793368963076
   },
   {
     "name": "abstractmethoderror",
     "count": 22,
-    "popular": 0.002301493564710153
+    "popular": 0.002284845450976564
   },
   {
     "name": "abstract-methods",
     "count": 187,
-    "popular": 0.019562695300036303
+    "popular": 0.01942118633330079
   },
   {
     "name": "abstractset",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "abstract-syntax-tree",
-    "count": 2983,
-    "popular": 0.3120616047059267
+    "count": 3004,
+    "popular": 0.311985260669709
   },
   {
     "name": "abstracttablemodel",
     "count": 294,
-    "popular": 0.03075632309203568
+    "popular": 0.03053384375395953
   },
   {
     "name": "abstract-type",
     "count": 102,
-    "popular": 0.010670561072747073
+    "popular": 0.010593374363618614
   },
   {
     "name": "abstractuser",
     "count": 32,
-    "popular": 0.003347627003214768
+    "popular": 0.0033234115650568196
   },
   {
     "name": "abstractverticle",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "abtest",
     "count": 69,
-    "popular": 0.007218320725681843
+    "popular": 0.007166106187153768
   },
   {
     "name": "ab-testing",
-    "count": 442,
-    "popular": 0.04623909798190398
+    "count": 444,
+    "popular": 0.04611233546516338
   },
   {
     "name": "abyss",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "acaccount",
     "count": 78,
-    "popular": 0.008159840820335997
+    "popular": 0.008100815689826
   },
   {
     "name": "acaccountstore",
     "count": 57,
-    "popular": 0.005962960599476306
+    "popular": 0.00591982685025746
   },
   {
     "name": "academic-graph",
     "count": 20,
-    "popular": 0.00209226687700923
+    "popular": 0.0020771322281605124
   },
   {
     "name": "acc",
-    "count": 45,
-    "popular": 0.004707600473270767
+    "count": 47,
+    "popular": 0.004881260736177204
   },
   {
     "name": "acceleo",
     "count": 154,
-    "popular": 0.01611045495297107
+    "popular": 0.015993918156835946
   },
   {
     "name": "accelerate",
-    "count": 90,
-    "popular": 0.009415200946541535
+    "count": 97,
+    "popular": 0.010074091306578485
   },
   {
     "name": "accelerated-c\u002B\u002B",
     "count": 17,
-    "popular": 0.0017784268454578457
+    "popular": 0.0017655623939364356
   },
   {
     "name": "accelerated-mobile-page",
     "count": 134,
-    "popular": 0.014018188075961842
+    "popular": 0.013916785928675434
   },
   {
     "name": "accelerate-framework",
-    "count": 315,
-    "popular": 0.03295320331289538
+    "count": 317,
+    "popular": 0.03292254581634412
   },
   {
     "name": "accelerate-haskell",
     "count": 20,
-    "popular": 0.00209226687700923
+    "popular": 0.0020771322281605124
   },
   {
     "name": "acceleration",
-    "count": 179,
-    "popular": 0.018725788549232607
+    "count": 180,
+    "popular": 0.018694190053444613
   },
   {
     "name": "accelerator",
     "count": 120,
-    "popular": 0.012553601262055382
+    "popular": 0.012462793368963075
   },
   {
     "name": "acceleratorkey",
     "count": 34,
-    "popular": 0.0035568536909156914
+    "popular": 0.003531124787872871
   },
   {
     "name": "accelerometer",
-    "count": 2585,
-    "popular": 0.270425493853443
+    "count": 2587,
+    "popular": 0.2686770537125623
   },
   {
     "name": "accent-color",
     "count": 14,
-    "popular": 0.001464586813906461
-  },
-  {
-    "name": "accentedcolor",
-    "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.0014539925597123588
   },
   {
     "name": "accent-insensitive",
     "count": 65,
-    "popular": 0.006799867350279998
+    "popular": 0.006750679741521665
   },
   {
     "name": "accent-sensitive",
     "count": 48,
-    "popular": 0.005021440504822152
+    "popular": 0.00498511734758523
   },
   {
     "name": "accept.js",
     "count": 26,
-    "popular": 0.002719946940111999
+    "popular": 0.002700271896608666
   },
   {
     "name": "acceptance",
-    "count": 38,
-    "popular": 0.0039753070663175365
+    "count": 39,
+    "popular": 0.004050407844913
   },
   {
     "name": "acceptance-testing",
-    "count": 592,
-    "popular": 0.06193109955947321
+    "count": 591,
+    "popular": 0.06137925734214315
   },
   {
     "name": "acceptbutton",
     "count": 35,
-    "popular": 0.003661467034766153
+    "popular": 0.0036349813992808968
   },
   {
     "name": "accept-ranges",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "accepts-nested-attributes",
-    "count": 73,
-    "popular": 0.00763677410108369
+    "count": 74,
+    "popular": 0.007685389244193896
   },
   {
     "name": "accepts-nested-attributes-for",
-    "count": 7,
-    "popular": 0.0007322934069532305
+    "count": 8,
+    "popular": 0.0008308528912642049
   },
   {
     "name": "acceptverbs",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "access-control",
-    "count": 1380,
-    "popular": 0.14436641451363688
+    "count": 1388,
+    "popular": 0.14415297663433957
   },
   {
     "name": "accesscontrolexception",
     "count": 130,
-    "popular": 0.013599734700559996
+    "popular": 0.01350135948304333
   },
   {
     "name": "access-control-list",
-    "count": 5,
-    "popular": 0.0005230667192523075
+    "count": 6,
+    "popular": 0.0006231396684481538
   },
   {
     "name": "accesscontrolservice",
     "count": 35,
-    "popular": 0.003661467034766153
+    "popular": 0.0036349813992808968
   },
   {
     "name": "access-database-engine",
-    "count": 12,
-    "popular": 0.001255360126205538
+    "count": 11,
+    "popular": 0.001142422725488282
   },
   {
     "name": "access-data-project",
     "count": 15,
-    "popular": 0.0015692001577569227
+    "popular": 0.0015578491711203844
   },
   {
     "name": "accessdatasource",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "access-denied",
-    "count": 1052,
-    "popular": 0.1100532377306855
+    "count": 1058,
+    "popular": 0.1098802948696911
   },
   {
     "name": "accessibility",
-    "count": 8037,
-    "popular": 0.8407774445261591
+    "count": 8085,
+    "popular": 0.8396807032338872
   },
   {
     "name": "accessibility-api",
     "count": 123,
-    "popular": 0.012867441293606764
+    "popular": 0.012774363203187152
   },
   {
     "name": "accessibility-insights",
     "count": 34,
-    "popular": 0.0035568536909156914
+    "popular": 0.003531124787872871
   },
   {
     "name": "accessibility-inspector",
     "count": 18,
-    "popular": 0.001883040189308307
+    "popular": 0.0018694190053444612
   },
   {
     "name": "accessibilityservice",
-    "count": 555,
-    "popular": 0.058060405837006134
+    "count": 560,
+    "popular": 0.05815970238849435
   },
   {
     "name": "accessible",
-    "count": 70,
-    "popular": 0.007322934069532306
+    "count": 71,
+    "popular": 0.00737381940996982
   },
   {
     "name": "access-keys",
-    "count": 119,
-    "popular": 0.01244898791820492
+    "count": 118,
+    "popular": 0.012255080146147023
   },
   {
     "name": "access-levels",
     "count": 84,
-    "popular": 0.008787520883438765
+    "popular": 0.008723955358274152
   },
   {
     "name": "access-log",
-    "count": 241,
-    "popular": 0.025211815867961222
+    "count": 240,
+    "popular": 0.02492558673792615
   },
   {
     "name": "access-modifiers",
-    "count": 1048,
-    "popular": 0.10963478435528366
+    "count": 1050,
+    "popular": 0.10904944197842689
   },
   {
     "name": "accessor",
     "count": 868,
-    "popular": 0.09080438246220059
+    "popular": 0.09014753870216624
   },
   {
     "name": "accessorizer",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "accessory",
-    "count": 129,
-    "popular": 0.013495121356709534
+    "count": 128,
+    "popular": 0.013293646260227278
   },
   {
     "name": "accessorytype",
     "count": 39,
-    "popular": 0.004079920410167998
+    "popular": 0.004050407844913
   },
   {
     "name": "accessoryview",
-    "count": 138,
-    "popular": 0.014436641451363686
+    "count": 137,
+    "popular": 0.01422835576289951
   },
   {
     "name": "access-point",
-    "count": 182,
-    "popular": 0.019039628580783993
+    "count": 181,
+    "popular": 0.018798046664852637
   },
   {
     "name": "access-point-name",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "access-protection",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "access-rights",
     "count": 271,
-    "popular": 0.028350216183475066
+    "popular": 0.02814514169157494
   },
   {
     "name": "access-rules",
     "count": 37,
-    "popular": 0.0038706937224670755
+    "popular": 0.003842694622096948
   },
   {
     "name": "access-specifier",
     "count": 243,
-    "popular": 0.025421042555662146
+    "popular": 0.02523715657215023
   },
   {
     "name": "access-synchronization",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "access-token",
-    "count": 4126,
-    "popular": 0.43163465672700413
+    "count": 4162,
+    "popular": 0.43225121668020267
   },
   {
     "name": "accesstrail",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "access-violation",
-    "count": 1572,
-    "popular": 0.1644521765329255
+    "count": 1571,
+    "popular": 0.16315873652200827
   },
   {
     "name": "accord.net",
-    "count": 293,
-    "popular": 0.03065170974818522
+    "count": 292,
+    "popular": 0.03032613053114348
   },
   {
     "name": "accordion",
-    "count": 4156,
-    "popular": 0.434773057042518
+    "count": 4159,
+    "popular": 0.4319396468459785
   },
   {
     "name": "accordionpane",
     "count": 26,
-    "popular": 0.002719946940111999
+    "popular": 0.002700271896608666
   },
   {
     "name": "account",
-    "count": 1299,
-    "popular": 0.1358927336617495
+    "count": 1304,
+    "popular": 0.1354290212760654
   },
   {
     "name": "accounting",
     "count": 363,
-    "popular": 0.03797464381771752
+    "popular": 0.0376999499411133
   },
   {
     "name": "accounting.js",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "account-kit",
     "count": 151,
-    "popular": 0.015796614921419688
+    "popular": 0.015682348322611867
   },
   {
     "name": "account-linking",
     "count": 48,
-    "popular": 0.005021440504822152
+    "popular": 0.00498511734758523
   },
   {
     "name": "account-management",
-    "count": 117,
-    "popular": 0.012239761230503994
+    "count": 118,
+    "popular": 0.012255080146147023
   },
   {
     "name": "accountmanager",
     "count": 516,
-    "popular": 0.053980485426838136
+    "popular": 0.05359001148654122
   },
   {
     "name": "accountpicker",
     "count": 20,
-    "popular": 0.00209226687700923
+    "popular": 0.0020771322281605124
   },
   {
     "name": "accounts",
     "count": 205,
-    "popular": 0.021445735489344607
+    "popular": 0.02129060533864525
   },
   {
     "name": "accounts-framework",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "accountsservice",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "accountview",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "accpac",
     "count": 21,
-    "popular": 0.0021968802208596912
+    "popular": 0.002180988839568538
   },
   {
     "name": "accumarray",
-    "count": 66,
-    "popular": 0.006904480694130459
+    "count": 67,
+    "popular": 0.006958392964337717
   },
   {
     "name": "accumulate",
-    "count": 333,
-    "popular": 0.03483624350220368
+    "count": 337,
+    "popular": 0.034999678044504635
   },
   {
     "name": "accumulator",
-    "count": 272,
-    "popular": 0.02845482952732553
+    "count": 271,
+    "popular": 0.02814514169157494
   },
   {
     "name": "accumulo",
-    "count": 269,
-    "popular": 0.028140989495774142
+    "count": 270,
+    "popular": 0.02804128508016692
   },
   {
     "name": "accuracerdb",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "accurev",
-    "count": 205,
-    "popular": 0.021445735489344607
+    "count": 206,
+    "popular": 0.02139446195005328
   },
   {
     "name": "ace",
     "count": 206,
-    "popular": 0.02155034883319507
+    "popular": 0.02139446195005328
   },
   {
     "name": "ace-datatable",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "ace-editor",
     "count": 1209,
-    "popular": 0.12647753271520795
+    "popular": 0.12556264319230298
   },
   {
     "name": "aceoledb",
     "count": 49,
-    "popular": 0.005126053848672613
+    "popular": 0.005088973958993256
   },
   {
     "name": "ace-plugin",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "aceshop",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "ace-tao",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "acf-gutenberg",
-    "count": 18,
-    "popular": 0.001883040189308307
+    "count": 20,
+    "popular": 0.0020771322281605124
   },
   {
     "name": "acfpro",
-    "count": 347,
-    "popular": 0.036300830316110144
+    "count": 351,
+    "popular": 0.03645367060421699
   },
   {
     "name": "achartengine",
     "count": 1215,
-    "popular": 0.12710521277831072
+    "popular": 0.12618578286075113
   },
   {
     "name": "achievements",
-    "count": 232,
-    "popular": 0.02427029577330707
+    "count": 233,
+    "popular": 0.02419859045806997
   },
   {
     "name": "acid",
     "count": 332,
-    "popular": 0.03473163015835322
+    "popular": 0.034480394987464504
   },
   {
     "name": "acid3",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "acid-state",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": "acitree",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "ack",
-    "count": 259,
-    "popular": 0.027094856057269526
+    "count": 258,
+    "popular": 0.02679500574327061
   },
   {
     "name": "ackermann",
     "count": 56,
-    "popular": 0.005858347255625844
+    "popular": 0.005815970238849435
   },
   {
     "name": "acknowledgepurchase",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "acl",
-    "count": 2791,
-    "popular": 0.29197584268663807
+    "count": 2796,
+    "popular": 0.29038308549683967
   },
   {
     "name": "acl2",
     "count": 38,
-    "popular": 0.0039753070663175365
+    "popular": 0.003946551233504974
   },
   {
     "name": "acl9",
     "count": 20,
-    "popular": 0.00209226687700923
+    "popular": 0.0020771322281605124
   },
   {
     "name": "acm.graphics",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "acme",
-    "count": 79,
-    "popular": 0.008264454164186459
+    "count": 82,
+    "popular": 0.008516242135458102
   },
   {
     "name": "acme.sh",
-    "count": 17,
-    "popular": 0.0017784268454578457
+    "count": 16,
+    "popular": 0.0016617057825284098
   },
   {
     "name": "acme-deepmind",
-    "count": 3,
-    "popular": 0.0003138400315513845
+    "count": 4,
+    "popular": 0.00041542644563210244
   },
   {
     "name": "acm-java-libraries",
     "count": 114,
-    "popular": 0.011925921198952612
+    "popular": 0.01183965370051492
   },
   {
     "name": "acorn",
-    "count": 19,
-    "popular": 0.0019876535331587683
+    "count": 20,
+    "popular": 0.0020771322281605124
   },
   {
     "name": "acoustics",
     "count": 80,
-    "popular": 0.00836906750803692
+    "popular": 0.00830852891264205
   },
   {
     "name": "acoustic-telemetry",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "acpi",
-    "count": 181,
-    "popular": 0.01893501523693353
+    "count": 183,
+    "popular": 0.01900575988766869
   },
   {
     "name": "acpica",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "acquia",
-    "count": 80,
-    "popular": 0.00836906750803692
+    "count": 79,
+    "popular": 0.008204672301234025
   },
   {
     "name": "acquiretokensilent",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "acquisition",
-    "count": 25,
-    "popular": 0.0026153335962615376
+    "count": 24,
+    "popular": 0.002492558673792615
   },
   {
     "name": "acr",
-    "count": 112,
-    "popular": 0.011716694511251688
+    "count": 115,
+    "popular": 0.011943510311922947
   },
   {
     "name": "acr122",
     "count": 126,
-    "popular": 0.013181281325158148
+    "popular": 0.013085933037411228
   },
   {
     "name": "acr1252",
     "count": 14,
-    "popular": 0.001464586813906461
+    "popular": 0.0014539925597123588
   },
   {
     "name": "acra",
     "count": 277,
-    "popular": 0.028977896246577838
+    "popular": 0.028768281360023094
   },
   {
     "name": "acralyzer",
     "count": 15,
-    "popular": 0.0015692001577569227
+    "popular": 0.0015578491711203844
   },
   {
     "name": "acrcloud",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": "acrobat",
-    "count": 1604,
-    "popular": 0.16779980353614024
+    "count": 1608,
+    "popular": 0.1670014311441052
   },
   {
     "name": "acrobat-sdk",
     "count": 129,
-    "popular": 0.013495121356709534
+    "popular": 0.013397502871635304
   },
   {
     "name": "acrofields",
     "count": 123,
-    "popular": 0.012867441293606764
+    "popular": 0.012774363203187152
   },
   {
     "name": "acronym",
     "count": 108,
-    "popular": 0.011298241135849842
+    "popular": 0.011216514032066768
   },
   {
     "name": "acropolis",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "across",
-    "count": 263,
-    "popular": 0.027513309432671374
+    "count": 265,
+    "popular": 0.02752200202312679
   },
   {
     "name": "acrylic-material",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "acs",
-    "count": 421,
-    "popular": 0.04404221776104429
+    "count": 420,
+    "popular": 0.04361977679137076
   },
   {
     "name": "acsl",
     "count": 40,
-    "popular": 0.00418453375401846
+    "popular": 0.004154264456321025
   },
   {
     "name": "acs-serviceidentity",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "act",
     "count": 42,
-    "popular": 0.0043937604417193825
+    "popular": 0.004361977679137076
   },
   {
     "name": "actas",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "act-as-taggable-on",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "actframework",
     "count": 15,
-    "popular": 0.0015692001577569227
+    "popular": 0.0015578491711203844
   },
   {
     "name": "actian",
     "count": 29,
-    "popular": 0.0030337869716633836
+    "popular": 0.003011841730832743
   },
   {
     "name": "actinic",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "action",
-    "count": 4956,
-    "popular": 0.5184637321228872
+    "count": 4961,
+    "popular": 0.5152326491952152
   },
   {
     "name": "actionable-notification",
-    "count": 22,
-    "popular": 0.002301493564710153
+    "count": 19,
+    "popular": 0.001973275616752487
   },
   {
     "name": "actionbardrawertoggle",
     "count": 60,
-    "popular": 0.006276800631027691
+    "popular": 0.006231396684481538
   },
   {
     "name": "action-bar-navigation",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "actionbarsherlock",
-    "count": 3279,
-    "popular": 0.3430271544856633
+    "count": 3277,
+    "popular": 0.3403381155841
   },
   {
     "name": "actionbarsherlock-map",
     "count": 30,
-    "popular": 0.0031384003155138455
+    "popular": 0.003115698342240769
   },
   {
     "name": "actionbuilder",
     "count": 18,
-    "popular": 0.001883040189308307
+    "popular": 0.0018694190053444612
   },
   {
     "name": "action-button",
-    "count": 166,
-    "popular": 0.01736581507917661
+    "count": 167,
+    "popular": 0.01734405410514028
   },
   {
     "name": "actioncable",
-    "count": 856,
-    "popular": 0.08954902233599504
+    "count": 854,
+    "popular": 0.08869354614245388
   },
   {
     "name": "action-caching",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "actioncontext",
     "count": 67,
-    "popular": 0.007009094037980921
+    "popular": 0.006958392964337717
   },
   {
     "name": "actioncontroller",
     "count": 427,
-    "popular": 0.04466989782414706
+    "popular": 0.04434677307122694
   },
   {
     "name": "actiondispatch",
-    "count": 84,
-    "popular": 0.008787520883438765
+    "count": 82,
+    "popular": 0.008516242135458102
   },
   {
     "name": "action-drawer",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "actionevent",
     "count": 307,
-    "popular": 0.03211629656209168
+    "popular": 0.031883979702263865
   },
   {
     "name": "action-filter",
     "count": 623,
-    "popular": 0.06517411321883751
+    "popular": 0.06470266890719996
   },
   {
     "name": "actionfilterattribute",
-    "count": 247,
-    "popular": 0.025839495931063987
+    "count": 248,
+    "popular": 0.025756439629190355
   },
   {
     "name": "actionform",
     "count": 46,
-    "popular": 0.004812213817121229
+    "popular": 0.004777404124769178
   },
   {
     "name": "actionhero",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "action-hook",
     "count": 22,
-    "popular": 0.002301493564710153
+    "popular": 0.002284845450976564
   },
   {
     "name": "action-interface",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "actionlink",
-    "count": 604,
-    "popular": 0.06318645968567875
+    "count": 605,
+    "popular": 0.0628332499018555
   },
   {
     "name": "actionlist",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "actionlistener",
-    "count": 3500,
-    "popular": 0.36614670347661527
+    "count": 3501,
+    "popular": 0.3636019965394977
   },
   {
     "name": "action-mailbox",
     "count": 18,
-    "popular": 0.001883040189308307
+    "popular": 0.0018694190053444612
   },
   {
     "name": "actionmailer",
     "count": 2384,
-    "popular": 0.24939821173950022
+    "popular": 0.24759416159673306
   },
   {
     "name": "actionmailer.net",
     "count": 18,
-    "popular": 0.001883040189308307
+    "popular": 0.0018694190053444612
   },
   {
     "name": "actionmailerpreview",
-    "count": 3,
-    "popular": 0.0003138400315513845
+    "count": 2,
+    "popular": 0.00020771322281605122
   },
   {
     "name": "action-mapping",
-    "count": 95,
-    "popular": 0.009938267665793843
+    "count": 96,
+    "popular": 0.00997023469517046
   },
   {
     "name": "action-menu",
     "count": 28,
-    "popular": 0.002929173627812922
+    "popular": 0.0029079851194247176
   },
   {
     "name": "actionmenuview",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "actionmethod",
     "count": 135,
-    "popular": 0.014122801419812304
+    "popular": 0.01402064254008346
   },
   {
     "name": "actionmode",
     "count": 58,
-    "popular": 0.006067573943326767
+    "popular": 0.006023683461665486
   },
   {
     "name": "action-open-document-tree",
-    "count": 10,
-    "popular": 0.001046133438504615
+    "count": 11,
+    "popular": 0.001142422725488282
   },
   {
     "name": "actionpack",
     "count": 74,
-    "popular": 0.007741387444934151
+    "popular": 0.007685389244193896
   },
   {
     "name": "action-process-text",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "actionresult",
     "count": 459,
-    "popular": 0.04801752482736183
+    "popular": 0.04767018463628376
   },
   {
     "name": "actions-builder",
-    "count": 77,
-    "popular": 0.008055227476485535
+    "count": 78,
+    "popular": 0.008100815689826
   },
   {
     "name": "action-scheduler",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "actionscript",
-    "count": 9116,
-    "popular": 0.953655242540807
+    "count": 9113,
+    "popular": 0.9464452997613375
   },
   {
     "name": "actionscript-1",
     "count": 12,
-    "popular": 0.001255360126205538
+    "popular": 0.0012462793368963076
   },
   {
     "name": "actionscript-2",
     "count": 1956,
-    "popular": 0.20462370057150267
+    "popular": 0.20314353191409812
   },
   {
     "name": "actionscript-3",
-    "count": 41169,
-    "popular": 4.30682675297965
+    "count": 41145,
+    "popular": 4.273180276383214
   },
   {
     "name": "action-send",
-    "count": 4,
-    "popular": 0.000418453375401846
+    "count": 5,
+    "popular": 0.0005192830570401281
   },
   {
     "name": "actionsheet",
     "count": 44,
-    "popular": 0.004602987129420306
+    "popular": 0.004569690901953128
   },
   {
     "name": "actionsheetpicker",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "actions-on-google",
-    "count": 3389,
-    "popular": 0.354534622309214
+    "count": 3393,
+    "popular": 0.35238548250743096
   },
   {
     "name": "actiontext",
-    "count": 161,
-    "popular": 0.016842748359924303
+    "count": 162,
+    "popular": 0.01682477104810015
   },
   {
     "name": "actionview",
     "count": 494,
-    "popular": 0.051678991862127974
+    "popular": 0.05130516603556466
   },
   {
     "name": "actionviewhelper",
     "count": 86,
-    "popular": 0.00899674757113969
+    "popular": 0.008931668581090204
   },
   {
     "name": "actionwebservice",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "activation",
-    "count": 373,
-    "popular": 0.03902077725622214
+    "count": 374,
+    "popular": 0.03884237266660158
   },
   {
     "name": "activation-codes",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": "activation-context-api",
     "count": 30,
-    "popular": 0.0031384003155138455
+    "popular": 0.003115698342240769
   },
   {
     "name": "activation-function",
-    "count": 342,
-    "popular": 0.03577776359685784
+    "count": 347,
+    "popular": 0.03603824415858489
   },
   {
     "name": "activation-record",
-    "count": 21,
-    "popular": 0.0021968802208596912
+    "count": 22,
+    "popular": 0.002284845450976564
   },
   {
     "name": "activator",
-    "count": 278,
-    "popular": 0.029082509590428296
+    "count": 279,
+    "popular": 0.028975994582839146
   },
   {
     "name": "activeadmin",
-    "count": 3617,
-    "popular": 0.3783864647071193
+    "count": 3620,
+    "popular": 0.37596093329705277
   },
   {
     "name": "active-admin-import",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "activeandroid",
     "count": 231,
-    "popular": 0.024165682429456607
+    "popular": 0.023990877235253918
   },
   {
     "name": "active-attr",
     "count": 12,
-    "popular": 0.001255360126205538
+    "popular": 0.0012462793368963076
   },
   {
     "name": "activebatch",
-    "count": 10,
-    "popular": 0.001046133438504615
+    "count": 9,
+    "popular": 0.0009347095026722306
   },
   {
     "name": "activecampaign",
-    "count": 52,
-    "popular": 0.005439893880223998
+    "count": 53,
+    "popular": 0.005504400404625358
   },
   {
     "name": "activecollab",
-    "count": 150,
-    "popular": 0.015692001577569226
+    "count": 152,
+    "popular": 0.015786204934019894
   },
   {
     "name": "active-deploy",
-    "count": 6,
-    "popular": 0.000627680063102769
+    "count": 5,
+    "popular": 0.0005192830570401281
   },
   {
     "name": "active-directory",
-    "count": 16283,
-    "popular": 1.7034190779170646
+    "count": 16304,
+    "popular": 1.6932781923964497
   },
   {
     "name": "active-directory-group",
     "count": 351,
-    "popular": 0.036719283691511985
+    "popular": 0.03645367060421699
   },
   {
     "name": "activedirectorymembership",
     "count": 101,
-    "popular": 0.010565947728896612
+    "popular": 0.010489517752210588
   },
   {
     "name": "active-enum",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "active-form",
     "count": 183,
-    "popular": 0.019144241924634455
+    "popular": 0.01900575988766869
   },
   {
     "name": "active-hdl",
-    "count": 35,
-    "popular": 0.003661467034766153
+    "count": 34,
+    "popular": 0.003531124787872871
   },
   {
     "name": "activejdbc",
     "count": 216,
-    "popular": 0.022596482271699685
+    "popular": 0.022433028064133536
   },
   {
     "name": "active-learning",
-    "count": 8,
-    "popular": 0.000836906750803692
+    "count": 9,
+    "popular": 0.0009347095026722306
   },
   {
     "name": "activeloop",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "active-memory",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "activemerchant",
     "count": 309,
-    "popular": 0.0323255232497926
+    "popular": 0.032091692925079914
   },
   {
     "name": "activemessaging",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "activemodel",
     "count": 704,
-    "popular": 0.0736477940707249
+    "popular": 0.07311505443125005
   },
   {
     "name": "active-model-serializers",
-    "count": 737,
-    "popular": 0.07710003441779012
+    "count": 736,
+    "popular": 0.07643846599630685
   },
   {
     "name": "activemq-artemis",
-    "count": 1533,
-    "popular": 0.16037225612275746
+    "count": 1554,
+    "popular": 0.1613931741280718
   },
   {
     "name": "activemq-classic",
-    "count": 5727,
-    "popular": 0.5991206202315931
+    "count": 5729,
+    "popular": 0.5949945267565788
   },
   {
     "name": "activemq-cpp",
-    "count": 87,
-    "popular": 0.00910136091499015
+    "count": 88,
+    "popular": 0.009139381803906256
   },
   {
     "name": "active-objects",
     "count": 42,
-    "popular": 0.0043937604417193825
+    "popular": 0.004361977679137076
   },
   {
     "name": "active-passive",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "active-pattern",
     "count": 41,
-    "popular": 0.004289147097868921
+    "popular": 0.004258121067729051
   },
   {
     "name": "activeperl",
     "count": 156,
-    "popular": 0.016319681640671994
+    "popular": 0.016201631379652
   },
   {
     "name": "activepivot",
     "count": 79,
-    "popular": 0.008264454164186459
+    "popular": 0.008204672301234025
   },
   {
     "name": "activepython",
     "count": 56,
-    "popular": 0.005858347255625844
+    "popular": 0.005815970238849435
   },
   {
     "name": "activeqt",
     "count": 33,
-    "popular": 0.0034522403470652295
+    "popular": 0.003427268176464846
   },
   {
     "name": "activerecord",
-    "count": 28661,
-    "popular": 2.998323048098077
+    "count": 28669,
+    "popular": 2.9774651924566866
   },
   {
     "name": "activerecord-calculations",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "activerecord-fb-adapter",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "activerecord-import",
     "count": 45,
-    "popular": 0.004707600473270767
+    "popular": 0.004673547513361153
   },
   {
     "name": "activerecord-jdbc",
     "count": 15,
-    "popular": 0.0015692001577569227
+    "popular": 0.0015578491711203844
   },
   {
     "name": "activerecordlinq",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "active-record-query",
     "count": 96,
-    "popular": 0.010042881009644304
+    "popular": 0.00997023469517046
   },
   {
     "name": "activerecord-relation",
     "count": 29,
-    "popular": 0.0030337869716633836
+    "popular": 0.003011841730832743
   },
   {
     "name": "active-relation",
     "count": 69,
-    "popular": 0.007218320725681843
+    "popular": 0.007166106187153768
   },
   {
     "name": "activereports",
     "count": 381,
-    "popular": 0.03985768400702583
+    "popular": 0.03956936894645776
   },
   {
     "name": "activeresource",
     "count": 354,
-    "popular": 0.037033123723063374
+    "popular": 0.03676524043844107
   },
   {
     "name": "active-rest-client",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "activescaffold",
     "count": 142,
-    "popular": 0.014855094826765532
+    "popular": 0.01474763881993964
   },
   {
     "name": "active-script",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "activestate",
     "count": 121,
-    "popular": 0.01265821460590584
+    "popular": 0.012566649980371101
   },
   {
     "name": "activesupport",
     "count": 581,
-    "popular": 0.06078035277711813
+    "popular": 0.06034069122806289
   },
   {
     "name": "activesupport-concern",
     "count": 149,
-    "popular": 0.015587388233718764
+    "popular": 0.015474635099795816
   },
   {
     "name": "activesync",
     "count": 229,
-    "popular": 0.023956455741755683
+    "popular": 0.023783164012437866
   },
   {
     "name": "activetcl",
     "count": 36,
-    "popular": 0.003766080378616614
+    "popular": 0.0037388380106889224
   },
   {
     "name": "active-users",
     "count": 22,
-    "popular": 0.002301493564710153
+    "popular": 0.002284845450976564
   },
   {
     "name": "activeview",
     "count": 32,
-    "popular": 0.003347627003214768
+    "popular": 0.0033234115650568196
   },
   {
     "name": "activeweb",
     "count": 49,
-    "popular": 0.005126053848672613
+    "popular": 0.005088973958993256
   },
   {
     "name": "active-window",
     "count": 54,
-    "popular": 0.005649120567924921
+    "popular": 0.005608257016033384
   },
   {
     "name": "activeworlds",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "activex",
-    "count": 3834,
-    "popular": 0.4010875603226694
+    "count": 3835,
+    "popular": 0.3982901047497782
   },
   {
     "name": "activex-documents",
     "count": 14,
-    "popular": 0.001464586813906461
+    "popular": 0.0014539925597123588
   },
   {
     "name": "activex-exe",
     "count": 30,
-    "popular": 0.0031384003155138455
+    "popular": 0.003115698342240769
   },
   {
     "name": "activexobject",
     "count": 435,
-    "popular": 0.04550680457495075
+    "popular": 0.04517762596249114
   },
   {
     "name": "activiti",
-    "count": 1284,
-    "popular": 0.13432353350399256
+    "count": 1285,
+    "popular": 0.13345574565931292
   },
   {
     "name": "activiti-cloud",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "activitydesigner",
     "count": 24,
-    "popular": 0.002510720252411076
+    "popular": 0.002492558673792615
   },
   {
     "name": "activity-diagram",
-    "count": 252,
-    "popular": 0.026362562650316296
+    "count": 253,
+    "popular": 0.026275722686230484
   },
   {
     "name": "activity-finish",
     "count": 338,
-    "popular": 0.03535931022145598
+    "popular": 0.035103534655912656
   },
   {
     "name": "activitygroup",
     "count": 190,
-    "popular": 0.019876535331587685
+    "popular": 0.019732756167524866
   },
   {
     "name": "activity-indicator",
-    "count": 213,
-    "popular": 0.022282642240148302
+    "count": 212,
+    "popular": 0.022017601618501432
   },
   {
     "name": "activitykit",
-    "count": 35,
-    "popular": 0.003661467034766153
+    "count": 39,
+    "popular": 0.004050407844913
   },
   {
     "name": "activity-lifecycle",
-    "count": 707,
-    "popular": 0.07396163410227628
+    "count": 710,
+    "popular": 0.07373819409969819
   },
   {
     "name": "activitylog",
     "count": 55,
-    "popular": 0.005753733911775382
+    "popular": 0.005712113627441409
   },
   {
     "name": "activity-manager",
     "count": 135,
-    "popular": 0.014122801419812304
+    "popular": 0.01402064254008346
   },
   {
     "name": "activity-monitor",
-    "count": 50,
-    "popular": 0.005230667192523075
+    "count": 51,
+    "popular": 0.005296687181809307
   },
   {
     "name": "activitynotfoundexception",
     "count": 98,
-    "popular": 0.010252107697345227
+    "popular": 0.010177947917986511
   },
   {
     "name": "activity-oncreateview",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "activitypub",
     "count": 14,
-    "popular": 0.001464586813906461
+    "popular": 0.0014539925597123588
   },
   {
     "name": "activity-recognition",
-    "count": 202,
-    "popular": 0.021131895457793225
+    "count": 203,
+    "popular": 0.021082892115829203
   },
   {
     "name": "activity-result-api",
-    "count": 26,
-    "popular": 0.002719946940111999
+    "count": 27,
+    "popular": 0.002804128508016692
   },
   {
     "name": "activityresultcontracts",
-    "count": 25,
-    "popular": 0.0026153335962615376
+    "count": 27,
+    "popular": 0.002804128508016692
   },
   {
     "name": "activity-scenario",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "activity-stack",
     "count": 138,
-    "popular": 0.014436641451363686
+    "popular": 0.014332212374307537
   },
   {
     "name": "activity-state",
     "count": 26,
-    "popular": 0.002719946940111999
+    "popular": 0.002700271896608666
   },
   {
     "name": "activity-streams",
     "count": 36,
-    "popular": 0.003766080378616614
+    "popular": 0.0037388380106889224
   },
   {
     "name": "activity-tracing",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "activity-transition",
-    "count": 102,
-    "popular": 0.010670561072747073
+    "count": 103,
+    "popular": 0.01069723097502664
   },
   {
     "name": "activitytransitionapi",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "activityunittestcase",
     "count": 26,
-    "popular": 0.002719946940111999
+    "popular": 0.002700271896608666
   },
   {
     "name": "actix-web",
-    "count": 511,
-    "popular": 0.05345741870758583
+    "count": 514,
+    "popular": 0.053382298263725175
   },
   {
     "name": "actor",
-    "count": 2072,
-    "popular": 0.2167588484581562
+    "count": 2075,
+    "popular": 0.21550246867165315
   },
   {
     "name": "actor-critics",
-    "count": 9,
-    "popular": 0.0009415200946541535
+    "count": 7,
+    "popular": 0.0007269962798561794
   },
   {
     "name": "actor-model",
-    "count": 69,
-    "popular": 0.007218320725681843
+    "count": 68,
+    "popular": 0.007062249575745742
   },
   {
     "name": "actor-platform",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "actorsystem",
     "count": 17,
-    "popular": 0.0017784268454578457
+    "popular": 0.0017655623939364356
   },
   {
     "name": "acts-as-audited",
     "count": 60,
-    "popular": 0.006276800631027691
+    "popular": 0.006231396684481538
   },
   {
     "name": "acts-as-commentable",
     "count": 56,
-    "popular": 0.005858347255625844
+    "popular": 0.005815970238849435
   },
   {
     "name": "acts-as-ferret",
     "count": 24,
-    "popular": 0.002510720252411076
+    "popular": 0.002492558673792615
   },
   {
     "name": "acts-as-follower",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "acts-as-list",
     "count": 74,
-    "popular": 0.007741387444934151
+    "popular": 0.007685389244193896
   },
   {
     "name": "acts-as-nested-set",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "acts-as-paranoid",
     "count": 49,
-    "popular": 0.005126053848672613
+    "popular": 0.005088973958993256
   },
   {
     "name": "acts-as-shopping-cart",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "acts-as-state-machine",
     "count": 12,
-    "popular": 0.001255360126205538
+    "popular": 0.0012462793368963076
   },
   {
     "name": "acts-as-taggable",
     "count": 60,
-    "popular": 0.006276800631027691
+    "popular": 0.006231396684481538
   },
   {
     "name": "acts-as-taggable-on",
     "count": 521,
-    "popular": 0.05450355214609044
+    "popular": 0.05410929454358135
   },
   {
     "name": "acts-as-taggable-on-ster",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "acts-as-tenant",
     "count": 37,
-    "popular": 0.0038706937224670755
+    "popular": 0.003842694622096948
   },
   {
     "name": "acts-as-tree",
     "count": 52,
-    "popular": 0.005439893880223998
+    "popular": 0.005400543793217332
   },
   {
     "name": "acts-as-versioned",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "acts-as-votable",
     "count": 80,
-    "popular": 0.00836906750803692
+    "popular": 0.00830852891264205
   },
   {
     "name": "actualheight",
     "count": 46,
-    "popular": 0.004812213817121229
+    "popular": 0.004777404124769178
   },
   {
     "name": "actualwidth",
     "count": 90,
-    "popular": 0.009415200946541535
+    "popular": 0.009347095026722306
   },
   {
     "name": "actuate",
     "count": 21,
-    "popular": 0.0021968802208596912
+    "popular": 0.002180988839568538
   },
   {
     "name": "actuator",
-    "count": 19,
-    "popular": 0.0019876535331587683
+    "count": 18,
+    "popular": 0.0018694190053444612
   },
   {
     "name": "acucobol-gt",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "acumatica",
-    "count": 3549,
-    "popular": 0.37127275732528786
+    "count": 3553,
+    "popular": 0.369002540332715
   },
   {
     "name": "acumatica-kb",
-    "count": 345,
-    "popular": 0.03609160362840922
+    "count": 349,
+    "popular": 0.03624595738140094
   },
   {
     "name": "acumos",
     "count": 50,
-    "popular": 0.005230667192523075
+    "popular": 0.005192830570401282
   },
   {
     "name": "acymailing",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "ada",
-    "count": 2400,
-    "popular": 0.2510720252411076
+    "count": 2404,
+    "popular": 0.2496712938248936
   },
   {
     "name": "ada2012",
     "count": 41,
-    "popular": 0.004289147097868921
+    "popular": 0.004258121067729051
   },
   {
     "name": "ada95",
     "count": 17,
-    "popular": 0.0017784268454578457
+    "popular": 0.0017655623939364356
   },
   {
     "name": "adabas",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "adabas-natural",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "adaboost",
-    "count": 253,
-    "popular": 0.026467175994166762
+    "count": 254,
+    "popular": 0.026379579297638508
   },
   {
     "name": "ada-embedding",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "adafruit",
-    "count": 375,
-    "popular": 0.039230003943923064
+    "count": 382,
+    "popular": 0.03967322555786579
   },
   {
     "name": "adafruit-circuitpython",
-    "count": 168,
-    "popular": 0.01757504176687753
+    "count": 165,
+    "popular": 0.017136340882324227
   },
   {
     "name": "adafruit-circuitpython-neopixel",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "adal",
-    "count": 1613,
-    "popular": 0.1687413236307944
+    "count": 1614,
+    "popular": 0.16762457081255336
   },
   {
     "name": "adal.js",
     "count": 287,
-    "popular": 0.030024029685082453
+    "popular": 0.029806847474103355
   },
   {
     "name": "adal4j",
     "count": 61,
-    "popular": 0.006381413974878151
+    "popular": 0.006335253295889563
   },
   {
     "name": "adal-angular4",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "adam",
     "count": 157,
-    "popular": 0.016424294984522456
+    "popular": 0.016305487991060023
   },
   {
     "name": "adanet",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "adapt",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "adapter",
-    "count": 5040,
-    "popular": 0.527251253006326
+    "count": 5042,
+    "popular": 0.5236450347192653
   },
   {
     "name": "adapter-transformers",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "adaption",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "adaptive-bitrate",
     "count": 72,
-    "popular": 0.007532160757233228
+    "popular": 0.007477676021377845
   },
   {
     "name": "adaptive-cards",
     "count": 954,
-    "popular": 0.09980113003334028
+    "popular": 0.09907920728325645
   },
   {
     "name": "adaptive-compression",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "adaptive-design",
-    "count": 122,
-    "popular": 0.012762827949756302
+    "count": 123,
+    "popular": 0.012774363203187152
   },
   {
     "name": "adaptive-dialogs",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "adaptive-icon",
-    "count": 36,
-    "popular": 0.003766080378616614
+    "count": 35,
+    "popular": 0.0036349813992808968
   },
   {
     "name": "adaptive-layout",
     "count": 107,
-    "popular": 0.01119362779199938
+    "popular": 0.011112657420658742
   },
   {
     "name": "adaptive-parallel-payment",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "adaptive-threshold",
-    "count": 80,
-    "popular": 0.00836906750803692
+    "count": 81,
+    "popular": 0.008412385524050076
   },
   {
     "name": "adaptive-trigger",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "adaptive-ui",
     "count": 53,
-    "popular": 0.00554450722407446
+    "popular": 0.005504400404625358
   },
   {
     "name": "adaptive-user-interfaces",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "adaptor",
-    "count": 78,
-    "popular": 0.008159840820335997
+    "count": 77,
+    "popular": 0.007996959078417973
   },
   {
     "name": "adapt-strap",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "adb",
-    "count": 7740,
-    "popular": 0.8097072814025721
+    "count": 7765,
+    "popular": 0.8064465875833191
   },
   {
     "name": "adbannerview",
     "count": 223,
-    "popular": 0.023328775678652915
+    "popular": 0.023160024343989713
   },
   {
     "name": "adbd",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "adb-drivers",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "adblock",
-    "count": 417,
-    "popular": 0.043623764385642444
+    "count": 416,
+    "popular": 0.043204350345738655
   },
   {
     "name": "adbwireless",
     "count": 25,
-    "popular": 0.0026153335962615376
+    "popular": 0.002596415285200641
   },
   {
     "name": "adc",
-    "count": 631,
-    "popular": 0.0660110199696412
+    "count": 635,
+    "popular": 0.06594894824409626
   },
   {
     "name": "adcolony",
     "count": 91,
-    "popular": 0.009519814290391997
+    "popular": 0.009450951638130332
   },
   {
     "name": "add-action",
-    "count": 37,
-    "popular": 0.0038706937224670755
+    "count": 39,
+    "popular": 0.004050407844913
   },
   {
     "name": "addattribute",
     "count": 38,
-    "popular": 0.0039753070663175365
+    "popular": 0.003946551233504974
   },
   {
     "name": "addcallback",
     "count": 14,
-    "popular": 0.001464586813906461
+    "popular": 0.0014539925597123588
   },
   {
     "name": "addchild",
-    "count": 286,
-    "popular": 0.029919416341231988
+    "count": 285,
+    "popular": 0.029599134251287306
   },
   {
     "name": "addclass",
     "count": 1226,
-    "popular": 0.1282559595606658
+    "popular": 0.12732820558623942
   },
   {
     "name": "add-custom-target",
     "count": 14,
-    "popular": 0.001464586813906461
+    "popular": 0.0014539925597123588
   },
   {
     "name": "ad-delivery",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "addeventlistener",
-    "count": 4437,
-    "popular": 0.4641694066644977
+    "count": 4456,
+    "popular": 0.46278506043416223
   },
   {
     "name": "add-filter",
-    "count": 146,
-    "popular": 0.01527354820216738
+    "count": 143,
+    "popular": 0.014851495431347663
   },
   {
     "name": "addhandler",
     "count": 94,
-    "popular": 0.00983365432194338
+    "popular": 0.009762521472354409
   },
   {
     "name": "add-in",
-    "count": 2579,
-    "popular": 0.2697978137903402
+    "count": 2581,
+    "popular": 0.26805391404411416
   },
   {
     "name": "addin-express",
-    "count": 62,
-    "popular": 0.006486027318728613
+    "count": 63,
+    "popular": 0.006542966518705614
   },
   {
     "name": "addition",
-    "count": 5636,
-    "popular": 0.589600805941201
+    "count": 5629,
+    "popular": 0.5846088656157762
   },
   {
     "name": "add-member",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "addmodelerror",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "addobserver",
     "count": 62,
-    "popular": 0.006486027318728613
+    "popular": 0.006439109907297589
   },
   {
     "name": "add-on",
-    "count": 1103,
-    "popular": 0.11538851826705904
+    "count": 1102,
+    "popular": 0.11444998577164424
   },
   {
     "name": "addon-domain",
-    "count": 51,
-    "popular": 0.005335280536373536
+    "count": 52,
+    "popular": 0.005400543793217332
   },
   {
     "name": "addr2line",
     "count": 44,
-    "popular": 0.004602987129420306
+    "popular": 0.004569690901953128
   },
   {
     "name": "addrange",
     "count": 85,
-    "popular": 0.008892134227289229
+    "popular": 0.008827811969682178
   },
   {
     "name": "add-references-dialog",
     "count": 25,
-    "popular": 0.0026153335962615376
+    "popular": 0.002596415285200641
   },
   {
     "name": "addremoveprograms",
     "count": 42,
-    "popular": 0.0043937604417193825
+    "popular": 0.004361977679137076
   },
   {
     "name": "addressable-gem",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "addressables",
-    "count": 55,
-    "popular": 0.005753733911775382
+    "count": 53,
+    "popular": 0.005504400404625358
   },
   {
     "name": "address-bar",
     "count": 203,
-    "popular": 0.021236508801643687
+    "popular": 0.021082892115829203
   },
   {
     "name": "addressbook",
     "count": 925,
-    "popular": 0.09676734306167689
+    "popular": 0.0960673655524237
   },
   {
     "name": "addressbookui",
     "count": 81,
-    "popular": 0.008473680851887381
+    "popular": 0.008412385524050076
   },
   {
     "name": "address-bus",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "addressing",
     "count": 154,
-    "popular": 0.01611045495297107
+    "popular": 0.015993918156835946
   },
   {
     "name": "addressing-mode",
     "count": 303,
-    "popular": 0.031697843186689834
+    "popular": 0.03146855325663176
   },
   {
     "name": "addressof",
     "count": 96,
-    "popular": 0.010042881009644304
+    "popular": 0.00997023469517046
   },
   {
     "name": "address-operator",
     "count": 48,
-    "popular": 0.005021440504822152
+    "popular": 0.00498511734758523
   },
   {
     "name": "address-sanitizer",
-    "count": 562,
-    "popular": 0.058792699243959363
+    "count": 572,
+    "popular": 0.059405981725390654
   },
   {
     "name": "address-space",
     "count": 77,
-    "popular": 0.008055227476485535
+    "popular": 0.007996959078417973
   },
   {
     "name": "addsearch",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "addslashes",
     "count": 82,
-    "popular": 0.008578294195737843
+    "popular": 0.008516242135458102
   },
   {
     "name": "addsubview",
     "count": 545,
-    "popular": 0.05701427239850152
+    "popular": 0.056601853217373974
   },
   {
     "name": "addtarget",
-    "count": 94,
-    "popular": 0.00983365432194338
+    "count": 95,
+    "popular": 0.009866378083762433
   },
   {
     "name": "addtextchangedlistener",
     "count": 72,
-    "popular": 0.007532160757233228
+    "popular": 0.007477676021377845
   },
   {
     "name": "addthis",
     "count": 485,
-    "popular": 0.050737471767473834
+    "popular": 0.05037045653289243
   },
   {
     "name": "add-this-event",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "addtoany",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "add-type",
     "count": 49,
-    "popular": 0.005126053848672613
+    "popular": 0.005088973958993256
   },
   {
     "name": "adduplex",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "adehabitathr",
-    "count": 62,
-    "popular": 0.006486027318728613
+    "count": 64,
+    "popular": 0.006646823130113639
   },
   {
     "name": "adempiere",
     "count": 92,
-    "popular": 0.009624427634242459
+    "popular": 0.009554808249538357
   },
   {
     "name": "adeos",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "adexchange",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "adfc-config",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "adfs",
-    "count": 2087,
-    "popular": 0.21832804861591318
+    "count": 2095,
+    "popular": 0.21757960089981368
   },
   {
     "name": "adfs2.0",
-    "count": 563,
-    "popular": 0.05889731258780982
+    "count": 564,
+    "popular": 0.05857512883412645
   },
   {
     "name": "adfs2.1",
     "count": 34,
-    "popular": 0.0035568536909156914
+    "popular": 0.003531124787872871
   },
   {
     "name": "adfs3.0",
-    "count": 287,
-    "popular": 0.030024029685082453
+    "count": 288,
+    "popular": 0.02991070408551138
   },
   {
     "name": "adfs4.0",
     "count": 112,
-    "popular": 0.011716694511251688
+    "popular": 0.01163194047769887
   },
   {
     "name": "adf-task-flow",
     "count": 20,
-    "popular": 0.00209226687700923
+    "popular": 0.0020771322281605124
   },
   {
     "name": "adgroup",
     "count": 61,
-    "popular": 0.006381413974878151
+    "popular": 0.006335253295889563
   },
   {
     "name": "adhearsion",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "adhoc",
-    "count": 546,
-    "popular": 0.05711888574235198
+    "count": 545,
+    "popular": 0.056601853217373974
   },
   {
     "name": "ad-hoc-distribution",
-    "count": 516,
-    "popular": 0.053980485426838136
+    "count": 515,
+    "popular": 0.0534861548751332
   },
   {
     "name": "ad-hoc-network",
     "count": 24,
-    "popular": 0.002510720252411076
+    "popular": 0.002492558673792615
   },
   {
     "name": "adhoc-polymorphism",
     "count": 33,
-    "popular": 0.0034522403470652295
+    "popular": 0.003427268176464846
   },
   {
     "name": "adhoc-queries",
     "count": 39,
-    "popular": 0.004079920410167998
+    "popular": 0.004050407844913
   },
   {
     "name": "adif",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "adipoli",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "adium",
     "count": 17,
-    "popular": 0.0017784268454578457
+    "popular": 0.0017655623939364356
   },
   {
     "name": "adjacency-list",
-    "count": 660,
-    "popular": 0.06904480694130459
+    "count": 662,
+    "popular": 0.06875307675211297
   },
   {
     "name": "adjacency-list-model",
     "count": 34,
-    "popular": 0.0035568536909156914
+    "popular": 0.003531124787872871
   },
   {
     "name": "adjacency-matrix",
-    "count": 914,
-    "popular": 0.09561659627932181
+    "count": 916,
+    "popular": 0.09513265604975146
   },
   {
     "name": "adjustable",
     "count": 25,
-    "popular": 0.0026153335962615376
+    "popular": 0.002596415285200641
   },
   {
     "name": "adjustable-array",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "adjust-android",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "adjustment",
-    "count": 138,
-    "popular": 0.014436641451363686
+    "count": 141,
+    "popular": 0.014643782208531613
   },
   {
     "name": "adjustpan",
     "count": 74,
-    "popular": 0.007741387444934151
+    "popular": 0.007685389244193896
   },
   {
     "name": "adjustviewbounds",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "adk",
     "count": 188,
-    "popular": 0.01966730864388676
+    "popular": 0.019525042944708818
   },
   {
     "name": "adldap",
     "count": 83,
-    "popular": 0.008682907539588305
+    "popular": 0.008620098746866126
   },
   {
     "name": "adlds",
-    "count": 103,
-    "popular": 0.010775174416597534
+    "count": 105,
+    "popular": 0.01090494419784269
   },
   {
     "name": "adler32",
     "count": 39,
-    "popular": 0.004079920410167998
+    "popular": 0.004050407844913
   },
   {
     "name": "adm2",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "ad-management",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "admin",
-    "count": 4596,
-    "popular": 0.4808029283367211
+    "count": 4603,
+    "popular": 0.478051982311142
   },
   {
     "name": "admin-ajax",
-    "count": 64,
-    "popular": 0.006695254006429536
+    "count": 67,
+    "popular": 0.006958392964337717
   },
   {
     "name": "admin-bro",
     "count": 34,
-    "popular": 0.0035568536909156914
+    "popular": 0.003531124787872871
   },
   {
     "name": "adminer",
-    "count": 143,
-    "popular": 0.014959708170615994
+    "count": 144,
+    "popular": 0.01495535204275569
   },
   {
     "name": "adminfaces",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "admin-generator",
     "count": 72,
-    "popular": 0.007532160757233228
+    "popular": 0.007477676021377845
   },
   {
     "name": "adminhtml",
     "count": 173,
-    "popular": 0.01809810848612984
+    "popular": 0.017967193773588436
   },
   {
     "name": "admin-interface",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "administrate",
     "count": 48,
-    "popular": 0.005021440504822152
+    "popular": 0.00498511734758523
   },
   {
     "name": "administration",
-    "count": 649,
-    "popular": 0.06789406015894951
+    "count": 647,
+    "popular": 0.06719522758099257
   },
   {
     "name": "administrative",
     "count": 21,
-    "popular": 0.0021968802208596912
+    "popular": 0.002180988839568538
   },
   {
     "name": "administrator",
-    "count": 712,
-    "popular": 0.07448470082152858
+    "count": 714,
+    "popular": 0.07415362054533028
   },
   {
     "name": "adminjs",
-    "count": 60,
-    "popular": 0.006276800631027691
+    "count": 61,
+    "popular": 0.006335253295889563
   },
   {
     "name": "adminlte",
     "count": 443,
-    "popular": 0.04634371132575444
+    "popular": 0.04600847885375535
   },
   {
     "name": "admin-on-rest",
     "count": 501,
-    "popular": 0.05241128526908121
+    "popular": 0.052032162315420835
   },
   {
     "name": "admin-rights",
-    "count": 103,
-    "popular": 0.010775174416597534
+    "count": 104,
+    "popular": 0.010801087586434664
   },
   {
     "name": "admob",
-    "count": 10102,
-    "popular": 1.0568039995773622
+    "count": 10103,
+    "popular": 1.0492633450552828
   },
   {
     "name": "admob-cookieconsent",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "admob-rewardedvideoad",
-    "count": 150,
-    "popular": 0.015692001577569226
+    "count": 147,
+    "popular": 0.015266921876979766
   },
   {
     "name": "adm-zip",
-    "count": 52,
-    "popular": 0.005439893880223998
+    "count": 50,
+    "popular": 0.005192830570401282
   },
   {
     "name": "ado",
-    "count": 2673,
-    "popular": 0.27963146811228357
+    "count": 2683,
+    "popular": 0.27864728840773273
   },
   {
     "name": "ado.net",
-    "count": 10107,
-    "popular": 1.0573270662966145
+    "count": 10110,
+    "popular": 1.049990341335139
   },
   {
     "name": "ado.net-entity-data-model",
-    "count": 505,
-    "popular": 0.052829738644483065
+    "count": 503,
+    "popular": 0.052239875538236884
   },
   {
     "name": "adobe",
-    "count": 6095,
-    "popular": 0.6376183307685629
+    "count": 6085,
+    "popular": 0.6319674804178359
   },
   {
     "name": "adobe-analytics",
-    "count": 733,
-    "popular": 0.07668158104238829
+    "count": 734,
+    "popular": 0.07623075277349081
   },
   {
     "name": "adobe-animate",
-    "count": 160,
-    "popular": 0.01673813501607384
+    "count": 159,
+    "popular": 0.016513201213876075
   },
   {
     "name": "adobe-brackets",
     "count": 547,
-    "popular": 0.05722349908620244
+    "popular": 0.056809566440190015
   },
   {
     "name": "adobe-bridge",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "adobe-campaign-classic",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "adobe-captivate",
     "count": 100,
-    "popular": 0.01046133438504615
+    "popular": 0.010385661140802563
   },
   {
     "name": "adobe-cc",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "adobe-cirrus",
     "count": 49,
-    "popular": 0.005126053848672613
+    "popular": 0.005088973958993256
   },
   {
     "name": "adobe-connect",
     "count": 41,
-    "popular": 0.004289147097868921
+    "popular": 0.004258121067729051
   },
   {
     "name": "adobe-contribute",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "adobecreativesdk",
     "count": 142,
-    "popular": 0.014855094826765532
+    "popular": 0.01474763881993964
   },
   {
     "name": "adobe-director",
     "count": 31,
-    "popular": 0.0032430136593643065
+    "popular": 0.0032195549536487944
   },
   {
     "name": "adobe-documentgeneration",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "adobe-dps",
     "count": 20,
-    "popular": 0.00209226687700923
+    "popular": 0.0020771322281605124
   },
   {
     "name": "adobe-drive",
-    "count": 2,
-    "popular": 0.000209226687700923
+    "count": 3,
+    "popular": 0.0003115698342240769
   },
   {
     "name": "adobe-dtm",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": "adobe-edge",
     "count": 282,
-    "popular": 0.029500962965830147
+    "popular": 0.029287564417063226
   },
   {
     "name": "adobe-edge-inspect",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "adobe-embed-api",
     "count": 29,
-    "popular": 0.0030337869716633836
+    "popular": 0.003011841730832743
   },
   {
     "name": "adobe-exprience-manager",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "adobe-extension",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "adobe-flash-cs3",
     "count": 33,
-    "popular": 0.0034522403470652295
+    "popular": 0.003427268176464846
   },
   {
     "name": "adobe-form",
     "count": 24,
-    "popular": 0.002510720252411076
+    "popular": 0.002492558673792615
   },
   {
     "name": "adobe-illustrator",
-    "count": 1025,
-    "popular": 0.10722867744672304
+    "count": 1027,
+    "popular": 0.1066607399160423
   },
   {
     "name": "adobe-incopy",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "adobe-indesign",
-    "count": 1194,
-    "popular": 0.12490833255745103
+    "count": 1196,
+    "popular": 0.12421250724399865
   },
   {
     "name": "adobe-javascript",
     "count": 31,
-    "popular": 0.0032430136593643065
+    "popular": 0.0032195549536487944
   },
   {
     "name": "adobe-launch",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "adobe-media-server",
     "count": 27,
-    "popular": 0.0028245602839624606
+    "popular": 0.002804128508016692
   },
   {
     "name": "adobe-native-extensions",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "adobe-pdf-library",
     "count": 17,
-    "popular": 0.0017784268454578457
+    "popular": 0.0017655623939364356
   },
   {
     "name": "adobe-pdfservices",
-    "count": 21,
-    "popular": 0.0021968802208596912
+    "count": 22,
+    "popular": 0.002284845450976564
   },
   {
     "name": "adobe-premiere",
-    "count": 89,
-    "popular": 0.009310587602691073
+    "count": 87,
+    "popular": 0.00903552519249823
   },
   {
     "name": "adobe-reader",
-    "count": 308,
-    "popular": 0.03222090990594214
+    "count": 307,
+    "popular": 0.031883979702263865
   },
   {
     "name": "adobe-scout",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": "adobe-scriptui",
-    "count": 56,
-    "popular": 0.005858347255625844
+    "count": 57,
+    "popular": 0.00591982685025746
   },
   {
     "name": "adobe-sign",
-    "count": 25,
-    "popular": 0.0026153335962615376
+    "count": 24,
+    "popular": 0.002492558673792615
   },
   {
     "name": "adobe-stratus",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "adobe-xd",
-    "count": 140,
-    "popular": 0.014645868139064612
+    "count": 139,
+    "popular": 0.014436068985715561
   },
   {
     "name": "adoconnection",
     "count": 43,
-    "popular": 0.004498373785569845
+    "popular": 0.004465834290545102
   },
   {
     "name": "adodb",
-    "count": 1845,
-    "popular": 0.19301161940410147
+    "count": 1847,
+    "popular": 0.19182316127062332
   },
   {
     "name": "adodbapi",
     "count": 42,
-    "popular": 0.0043937604417193825
+    "popular": 0.004361977679137076
   },
   {
     "name": "adodb-php",
     "count": 64,
-    "popular": 0.006695254006429536
+    "popular": 0.006646823130113639
   },
   {
     "name": "adomd",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "adomd.net",
-    "count": 134,
-    "popular": 0.014018188075961842
+    "count": 132,
+    "popular": 0.013709072705859384
   },
   {
     "name": "adonetappender",
     "count": 55,
-    "popular": 0.005753733911775382
+    "popular": 0.005712113627441409
   },
   {
     "name": "adonis.js",
-    "count": 745,
-    "popular": 0.07793694116859382
+    "count": 750,
+    "popular": 0.07789245855601921
   },
   {
     "name": "adonisjs-ace",
-    "count": 67,
-    "popular": 0.007009094037980921
+    "count": 68,
+    "popular": 0.007062249575745742
   },
   {
     "name": "adoptopenjdk",
-    "count": 140,
-    "popular": 0.014645868139064612
+    "count": 139,
+    "popular": 0.014436068985715561
   },
   {
     "name": "adorner",
-    "count": 210,
-    "popular": 0.021968802208596917
+    "count": 213,
+    "popular": 0.02212145822990946
   },
   {
     "name": "adornerdecorator",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "adornerlayer",
     "count": 46,
-    "popular": 0.004812213817121229
+    "popular": 0.004777404124769178
   },
   {
     "name": "adornment",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "adox",
-    "count": 69,
-    "popular": 0.007218320725681843
+    "count": 70,
+    "popular": 0.0072699627985617936
   },
   {
     "name": "adp",
     "count": 75,
-    "popular": 0.007846000788784613
+    "popular": 0.007789245855601921
   },
   {
     "name": "adp-api",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "adpcm",
-    "count": 38,
-    "popular": 0.0039753070663175365
+    "count": 39,
+    "popular": 0.004050407844913
   },
   {
     "name": "adplus",
     "count": 44,
-    "popular": 0.004602987129420306
+    "popular": 0.004569690901953128
   },
   {
     "name": "adql",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "adroitlogic",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "adroll",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "adrotator",
     "count": 33,
-    "popular": 0.0034522403470652295
+    "popular": 0.003427268176464846
   },
   {
     "name": "ads",
-    "count": 3960,
-    "popular": 0.41426884164782757
+    "count": 3957,
+    "popular": 0.41096061134155737
   },
   {
     "name": "ads-api",
     "count": 32,
-    "popular": 0.003347627003214768
+    "popular": 0.0033234115650568196
   },
   {
     "name": "adsapi-php.ini",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "ads-data-hub",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "adsense",
-    "count": 1863,
-    "popular": 0.1948946595934098
+    "count": 1862,
+    "popular": 0.19338101044174372
   },
   {
     "name": "adsense-anchor-ads",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "adsense-api",
     "count": 136,
-    "popular": 0.014227414763662766
+    "popular": 0.014124499151491485
   },
   {
     "name": "adsf",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "adsi",
     "count": 270,
-    "popular": 0.028245602839624608
+    "popular": 0.02804128508016692
   },
   {
     "name": "adsl",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "adsmanager",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "adsutil.vbs",
     "count": 27,
-    "popular": 0.0028245602839624606
+    "popular": 0.002804128508016692
   },
   {
     "name": "adswizz",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "adt",
-    "count": 2500,
-    "popular": 0.26153335962615376
+    "count": 2502,
+    "popular": 0.2598492417428801
   },
   {
     "name": "adtf",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": "adtf3",
     "count": 12,
-    "popular": 0.001255360126205538
+    "popular": 0.0012462793368963076
   },
   {
     "name": "adts",
     "count": 25,
-    "popular": 0.0026153335962615376
+    "popular": 0.002596415285200641
   },
   {
     "name": "advagg",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "advanced-custom-fields",
-    "count": 4563,
-    "popular": 0.47735068798965585
+    "count": 4576,
+    "popular": 0.47524785380312523
   },
   {
     "name": "advanceddatagrid",
     "count": 302,
-    "popular": 0.031593229842839375
+    "popular": 0.03136469664522373
   },
   {
     "name": "advanced-filter",
     "count": 105,
-    "popular": 0.010984401104298458
+    "popular": 0.01090494419784269
   },
   {
     "name": "advanced-indexing",
     "count": 12,
-    "popular": 0.001255360126205538
+    "popular": 0.0012462793368963076
   },
   {
     "name": "advanced-installer",
-    "count": 311,
-    "popular": 0.03253474993749353
+    "count": 314,
+    "popular": 0.032610975982120045
   },
   {
     "name": "advanced-query-tool",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "advanced-queuing",
     "count": 97,
-    "popular": 0.010147494353494765
+    "popular": 0.010074091306578485
   },
   {
     "name": "advanced-rest-client",
     "count": 74,
-    "popular": 0.007741387444934151
+    "popular": 0.007685389244193896
   },
   {
     "name": "advanced-search",
-    "count": 145,
-    "popular": 0.015168934858316918
+    "count": 147,
+    "popular": 0.015266921876979766
   },
   {
     "name": "advanced-threat-protection",
     "count": 11,
-    "popular": 0.0011507467823550766
+    "popular": 0.001142422725488282
   },
   {
     "name": "advantage-database-server",
     "count": 397,
-    "popular": 0.04153149750863322
+    "popular": 0.04123107472898617
   },
   {
     "name": "advapi32",
-    "count": 77,
-    "popular": 0.008055227476485535
+    "count": 76,
+    "popular": 0.007893102467009947
   },
   {
     "name": "adventure",
-    "count": 186,
-    "popular": 0.01945808195618584
+    "count": 187,
+    "popular": 0.01942118633330079
   },
   {
     "name": "adventureworks",
     "count": 219,
-    "popular": 0.022910322303251067
+    "popular": 0.022744597898357612
   },
   {
     "name": "adversarial-attack",
-    "count": 19,
-    "popular": 0.0019876535331587683
+    "count": 17,
+    "popular": 0.0017655623939364356
   },
   {
     "name": "adversarial-machines",
     "count": 18,
-    "popular": 0.001883040189308307
+    "popular": 0.0018694190053444612
   },
   {
     "name": "advertised-shortcut",
     "count": 12,
-    "popular": 0.001255360126205538
+    "popular": 0.0012462793368963076
   },
   {
     "name": "advertisement-server",
     "count": 99,
-    "popular": 0.010356721041195689
+    "popular": 0.010281804529394537
   },
   {
     "name": "adview",
     "count": 298,
-    "popular": 0.031174776467437527
+    "popular": 0.030949270199591632
   },
   {
     "name": "advising-functions",
     "count": 33,
-    "popular": 0.0034522403470652295
+    "popular": 0.003427268176464846
   },
   {
     "name": "adwhirl",
     "count": 201,
-    "popular": 0.021027282113942763
+    "popular": 0.02087517889301315
   },
   {
     "name": "adwords-budgetservice",
     "count": 9,
-    "popular": 0.0009415200946541535
+    "popular": 0.0009347095026722306
   },
   {
     "name": "adx",
-    "count": 98,
-    "popular": 0.010252107697345227
+    "count": 99,
+    "popular": 0.010281804529394537
   },
   {
     "name": "adxstudio-portals",
     "count": 65,
-    "popular": 0.006799867350279998
+    "popular": 0.006750679741521665
   },
   {
     "name": "adyen",
-    "count": 161,
-    "popular": 0.016842748359924303
+    "count": 163,
+    "popular": 0.016928627659508175
   },
   {
     "name": "aec",
     "count": 72,
-    "popular": 0.007532160757233228
+    "popular": 0.007477676021377845
   },
   {
     "name": "aedes",
-    "count": 21,
-    "popular": 0.0021968802208596912
+    "count": 20,
+    "popular": 0.0020771322281605124
   },
   {
     "name": "aegir",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "aegis",
     "count": 23,
-    "popular": 0.0024061069085606146
+    "popular": 0.002388702062384589
   },
   {
     "name": "aem",
-    "count": 5047,
-    "popular": 0.5279835464132793
+    "count": 5041,
+    "popular": 0.5235411781078572
   },
   {
     "name": "aem-6",
-    "count": 348,
-    "popular": 0.0364054436599606
+    "count": 345,
+    "popular": 0.03583053093576884
   },
   {
     "name": "aem-63",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "aem-core-wcm-components",
     "count": 12,
-    "popular": 0.001255360126205538
+    "popular": 0.0012462793368963076
   },
   {
     "name": "aem-developer-tools",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
+  },
+  {
+    "name": "aem-policies",
+    "count": 1,
+    "popular": 0.00010385661140802561
   },
   {
     "name": "aem-project-archetype",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
+  },
+  {
+    "name": "aem-style-system",
+    "count": 1,
+    "popular": 0.00010385661140802561
   },
   {
     "name": "aem-touch-ui",
     "count": 38,
-    "popular": 0.0039753070663175365
+    "popular": 0.003946551233504974
   },
   {
     "name": "aero",
     "count": 289,
-    "popular": 0.030233256372783374
+    "popular": 0.030014560696919407
   },
   {
     "name": "aerogear",
     "count": 43,
-    "popular": 0.004498373785569845
+    "popular": 0.004465834290545102
   },
   {
     "name": "aero-glass",
     "count": 149,
-    "popular": 0.015587388233718764
+    "popular": 0.015474635099795816
   },
   {
     "name": "aerokube-moon",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "aeron",
-    "count": 90,
-    "popular": 0.009415200946541535
+    "count": 91,
+    "popular": 0.009450951638130332
   },
   {
     "name": "aeroolib",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "aero-peek",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "aero-snap",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "aerospike",
-    "count": 828,
-    "popular": 0.08661984870818212
+    "count": 832,
+    "popular": 0.08640870069147731
   },
   {
     "name": "aerospike-ce",
-    "count": 43,
-    "popular": 0.004498373785569845
+    "count": 44,
+    "popular": 0.004569690901953128
   },
   {
     "name": "aerospike-loader",
     "count": 18,
-    "popular": 0.001883040189308307
+    "popular": 0.0018694190053444612
   },
   {
     "name": "aes",
-    "count": 7292,
-    "popular": 0.7628405033575653
+    "count": 7306,
+    "popular": 0.7587764029470352
   },
   {
     "name": "aescng",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "aescryptoserviceprovider",
     "count": 67,
-    "popular": 0.007009094037980921
+    "popular": 0.006958392964337717
   },
   {
     "name": "aes-gcm",
-    "count": 415,
-    "popular": 0.04341453769794152
+    "count": 422,
+    "popular": 0.04382749001418681
   },
   {
     "name": "aes-ni",
-    "count": 33,
-    "popular": 0.0034522403470652295
+    "count": 32,
+    "popular": 0.0033234115650568196
   },
   {
     "name": "aeson",
     "count": 385,
-    "popular": 0.040276137382427676
+    "popular": 0.039984795392089864
   },
   {
     "name": "aesthetics",
-    "count": 221,
-    "popular": 0.02311954899095199
+    "count": 223,
+    "popular": 0.023160024343989713
   },
   {
     "name": "aeternity-blockchain",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "aether",
     "count": 105,
-    "popular": 0.010984401104298458
+    "popular": 0.01090494419784269
   },
   {
     "name": "aether-ant",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "afabstractrestclient",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "afas-online",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "afbedsheet",
     "count": 16,
-    "popular": 0.001673813501607384
+    "popular": 0.0016617057825284098
   },
   {
     "name": "afconvert",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "affdex-sdk",
     "count": 99,
-    "popular": 0.010356721041195689
+    "popular": 0.010281804529394537
   },
   {
     "name": "affiliate",
     "count": 287,
-    "popular": 0.030024029685082453
+    "popular": 0.029806847474103355
   },
   {
     "name": "affiliates",
     "count": 21,
-    "popular": 0.0021968802208596912
+    "popular": 0.002180988839568538
   },
   {
     "name": "affinetransform",
-    "count": 571,
-    "popular": 0.05973421933861352
+    "count": 572,
+    "popular": 0.059405981725390654
   },
   {
     "name": "affinity",
-    "count": 336,
-    "popular": 0.03515008353375506
+    "count": 335,
+    "popular": 0.03479196482168859
   },
   {
     "name": "affix",
     "count": 213,
-    "popular": 0.022282642240148302
+    "popular": 0.02212145822990946
   },
   {
     "name": "afhttpclient",
     "count": 44,
-    "popular": 0.004602987129420306
+    "popular": 0.004569690901953128
   },
   {
     "name": "afhttprequestoperation",
     "count": 84,
-    "popular": 0.008787520883438765
+    "popular": 0.008723955358274152
   },
   {
     "name": "afhttpsessionmanager",
     "count": 26,
-    "popular": 0.002719946940111999
+    "popular": 0.002700271896608666
   },
   {
     "name": "afincrementalstore",
     "count": 47,
-    "popular": 0.00491682716097169
+    "popular": 0.004881260736177204
   },
   {
     "name": "afjsonrequestoperation",
     "count": 27,
-    "popular": 0.0028245602839624606
+    "popular": 0.002804128508016692
   },
   {
     "name": "afl-fuzz",
     "count": 10,
-    "popular": 0.001046133438504615
+    "popular": 0.0010385661140802562
   },
   {
     "name": "afnetworking",
-    "count": 3754,
-    "popular": 0.3927184928146325
+    "count": 3753,
+    "popular": 0.3897738626143202
   },
   {
     "name": "afnetworking-2",
-    "count": 1253,
-    "popular": 0.13108051984462826
+    "count": 1252,
+    "popular": 0.13002847748284807
   },
   {
     "name": "afnetworking-3",
     "count": 263,
-    "popular": 0.027513309432671374
+    "popular": 0.02731428880031074
   },
   {
     "name": "afoauth2client",
     "count": 7,
-    "popular": 0.0007322934069532305
+    "popular": 0.0007269962798561794
   },
   {
     "name": "afoauth2manager",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "aforge",
     "count": 680,
-    "popular": 0.07113707381831383
+    "popular": 0.07062249575745742
   },
   {
     "name": "afp",
     "count": 65,
-    "popular": 0.006799867350279998
+    "popular": 0.006750679741521665
   },
   {
     "name": "aframe",
-    "count": 2955,
-    "popular": 0.3091324310781137
+    "count": 2961,
+    "popular": 0.30751942637916385
   },
   {
     "name": "aframe-networked",
-    "count": 24,
-    "popular": 0.002510720252411076
+    "count": 23,
+    "popular": 0.002388702062384589
   },
   {
     "name": "aframe-react",
-    "count": 14,
-    "popular": 0.001464586813906461
+    "count": 13,
+    "popular": 0.001350135948304333
   },
   {
     "name": "aframe-super-hands",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "afterburner.fx",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "after-create",
     "count": 37,
-    "popular": 0.0038706937224670755
+    "popular": 0.003842694622096948
   },
   {
     "name": "after-effects",
-    "count": 534,
-    "popular": 0.05586352561614645
+    "count": 531,
+    "popular": 0.055147860657661606
   },
   {
     "name": "afterglow",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "after-save",
     "count": 68,
-    "popular": 0.007113707381831383
+    "popular": 0.007062249575745742
   },
   {
     "name": "afterthought",
     "count": 6,
-    "popular": 0.000627680063102769
+    "popular": 0.0006231396684481538
   },
   {
     "name": "after-update",
-    "count": 3,
-    "popular": 0.0003138400315513845
+    "count": 5,
+    "popular": 0.0005192830570401281
   },
   {
     "name": "afx",
     "count": 41,
-    "popular": 0.004289147097868921
+    "popular": 0.004258121067729051
   },
   {
     "name": "ag",
-    "count": 121,
-    "popular": 0.01265821460590584
+    "count": 119,
+    "popular": 0.012358936757555049
   },
   {
     "name": "against",
     "count": 72,
-    "popular": 0.007532160757233228
+    "popular": 0.007477676021377845
   },
   {
     "name": "agal",
     "count": 54,
-    "popular": 0.005649120567924921
+    "popular": 0.005608257016033384
   },
   {
     "name": "agatha-rrsl",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "agavi",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "ag-charts",
-    "count": 10,
-    "popular": 0.001046133438504615
+    "count": 16,
+    "popular": 0.0016617057825284098
   },
   {
     "name": "ag-charts-react",
-    "count": 11,
-    "popular": 0.0011507467823550766
+    "count": 12,
+    "popular": 0.0012462793368963076
   },
   {
     "name": "agconnect-functions",
     "count": 8,
-    "popular": 0.000836906750803692
+    "popular": 0.0008308528912642049
   },
   {
     "name": "agda",
-    "count": 841,
-    "popular": 0.08797982217823812
+    "count": 843,
+    "popular": 0.08755112341696561
   },
   {
     "name": "agda-mode",
     "count": 44,
-    "popular": 0.004602987129420306
+    "popular": 0.004569690901953128
   },
   {
     "name": "agda-stdlib",
     "count": 19,
-    "popular": 0.0019876535331587683
+    "popular": 0.001973275616752487
   },
   {
     "name": "agenda",
     "count": 100,
-    "popular": 0.01046133438504615
+    "popular": 0.010385661140802563
   },
   {
     "name": "agen-framework",
     "count": 1,
-    "popular": 0.0001046133438504615
+    "popular": 0.00010385661140802561
   },
   {
     "name": "agens-graph",
-    "count": 111,
-    "popular": 0.011612081167401226
+    "count": 112,
+    "popular": 0.01163194047769887
   },
   {
     "name": "agent",
-    "count": 1309,
-    "popular": 0.1369388671002541
+    "count": 1324,
+    "popular": 0.13750615350422593
   },
   {
     "name": "agent-based-modeling",
-    "count": 486,
-    "popular": 0.05084208511132429
+    "count": 489,
+    "popular": 0.05078588297852453
   },
   {
     "name": "agentpy",
     "count": 2,
-    "popular": 0.000209226687700923
+    "popular": 0.00020771322281605122
   },
   {
     "name": "agents",
     "count": 113,
-    "popular": 0.01182130785510215
+    "popular": 0.011735797089106895
   },
   {
     "name": "agents.jl",
-    "count": 8,
-    "popular": 0.000836906750803692
+    "count": 7,
+    "popular": 0.0007269962798561794
   },
   {
     "name": "agentset",
     "count": 33,
-    "popular": 0.0034522403470652295
+    "popular": 0.003427268176464846
   },
   {
     "name": "agents-jade",
-    "count": 280,
-    "popular": 0.029291736278129223
+    "count": 279,
+    "popular": 0.028975994582839146
   },
   {
     "name": "agfx",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "aggdraw",
     "count": 13,
-    "popular": 0.0013599734700559995
+    "popular": 0.001350135948304333
   },
   {
     "name": "aggpas",
     "count": 4,
-    "popular": 0.000418453375401846
+    "popular": 0.00041542644563210244
   },
   {
     "name": "aggregate",
-    "count": 8351,
-    "popular": 0.873626034495204
+    "count": 8362,
+    "popular": 0.8684489845939102
   },
   {
     "name": "aggregateerror",
     "count": 3,
-    "popular": 0.0003138400315513845
+    "popular": 0.0003115698342240769
   },
   {
     "name": "aggregateexception",
-    "count": 62,
-    "popular": 0.006486027318728613
+    "count": 63,
+    "popular": 0.006542966518705614
   },
   {
     "name": "aggregate-filter",
-    "count": 34,
-    "popular": 0.0035568536909156914
+    "count": 36,
+    "popular": 0.0037388380106889224
   },
   {
     "name": "aggregate-functions",
-    "count": 5841,
-    "popular": 0.6110465414305456
+    "count": 5851,
+    "popular": 0.607665033348358
   },
   {
     "name": "aggregate-initialization",
-    "count": 172,
-    "popular": 0.01799349514227938
+    "count": 174,
+    "popular": 0.01807105038499646
   },
   {
     "name": "aggregateroot",
-    "count": 451,
-    "popular": 0.04718061807655814
+    "count": 454,
+    "popular": 0.047150901579243634
   },
   {
     "name": "aggregates",
-    "count": 180,
-    "popular": 0.01883040189308307
+    "count": 181,
+    "popular": 0.018798046664852637
   },
   {
     "name": "aggregate-type",
     "count": 5,
-    "popular": 0.0005230667192523075
+    "popular": 0.0005192830570401281
   },
   {
     "name": "aggregation",
-    "count": 3437,
-    "popular": 0.3595560628140362
+    "count": 3448,
+    "popular": 0.35809759613487235
   },
   {
     "name": "aggregation-framework",
-    "count": 12415,
-    "popular": 1.2987746639034796
+    "count": 12427,
+    "popular": 1.2906261099675345
   },
   {
     "name": "aggregator",
-    "count": 106,
-    "popular": 0.01108901444814892
+    "count": 107,
+    "popular": 0.011112657420658742
+  },
+  {
+    "name": "aggregators",
+    "count": 16,
+    "popular": 0.0016617057825284098
+  },
+  {
+    "name": "ag-grid",
+    "count": 5002,
+    "popular": 0.5194907702629442
   }
 ]
