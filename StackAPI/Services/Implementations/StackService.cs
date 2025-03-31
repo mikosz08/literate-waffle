@@ -21,8 +21,9 @@ namespace StackAPI.Services.Implementations
             _httpClient = httpClient;
             _site = config["StackOverflowApi:Site"];
             _stackTagUri = config["StackOverflowApi:BaseUrl"];
-            _apiKey = config["SOApi:Key"];
+            _apiKey = config["StackOverflowApi:Key"];
             _logger = logger;
+            _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("StackAPI/1.0");
             _logger.LogInformation("Stack Service initialized.");
         }
 
@@ -127,13 +128,15 @@ namespace StackAPI.Services.Implementations
 
         private string CreateURI(PagingOptions pagingOptions)
         {
+            var encodedApiKey = Uri.EscapeDataString(_apiKey ?? string.Empty);
+
             var uri = $"{_stackTagUri}?" +
-                $"key={_apiKey}&" +
-                $"page={pagingOptions.PageNumber}&" +
-                $"pagesize={pagingOptions.PageSize}&" +
-                $"order={pagingOptions.Order}&" +
-                $"sort={pagingOptions.Sort}&" +
-                $"site={_site}";
+                    $"key={encodedApiKey}&" +
+                    $"page={pagingOptions.PageNumber}&" +
+                    $"pagesize={pagingOptions.PageSize}&" +
+                    $"order={pagingOptions.Order}&" +
+                    $"sort={pagingOptions.Sort}&" +
+                    $"site={_site}";
             return uri;
         }
 
