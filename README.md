@@ -1,20 +1,44 @@
 # StackOverflow Tags REST API
 
-## Overview
-This project is a REST API developed with .NET 8 and C#, focusing on providing a list of tags fetched from the StackOverflow API.
+Literate Waffle is a .NET application that integrates with the Stack Overflow API to fetch and process tags. It supports pagination, filtering, and saving data to a local JSON file. This project is designed to demonstrate how to interact with external APIs and process large datasets efficiently.
+
+---
 
 ## Features
-- **Tags Fetching:** Downloads at least 1000 tags from the StackOverflow API into a local database or another persistent cache.
-- **Percentage Calculation:** Calculates the percentage share of tags within the entire fetched population.
-- **Paginated API:** Exposes tags through a paginated API, allowing sorting by name and percentage in both directions.
-- **Forced Refresh:** Provides an API method to force a re-fetch of the tags from StackOverflow.
-- **OpenAPI Documentation:** Includes OpenAPI (Swagger) documentation of the provided API methods.
-- **Logging and Error Handling:** Incorporates logging and robust error handling.
-- **Unit and Integration Tests:** Contains selected unit and integration tests covering internal services and the exposed API.
-- **Containerization:** Utilizes Docker to ensure repeatable builds and runs.
-- **Easy Startup:** The entire application can be run with the simple command `docker compose up`.
 
-## Running the Project
-To run this project, ensure you have Docker installed on your machine. Clone the repository, navigate to the project directory, and execute:
+- Fetch tags from the Stack Overflow API with real-time data.
+- Support for pagination with customizable page size and sorting options (e.g., by name or count).
+- Calculate tag popularity as a percentage of the total occurrences in the dataset.
+- Save fetched data to a local JSON file (`tags.json`) for caching and offline access.
+- Docker support for easy deployment and scalability.
+- Built-in Swagger UI for testing and exploring API endpoints.
 
-```docker compose up```
+---
+
+## Requirements
+
+- [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/6.0) or newer
+- [Docker](https://www.docker.com/) (optional)
+- A Stack Overflow API key OR you can use this one: ```bSk)uQvp0j0Bw*p*DlEesw((``` (This is not considered a secret, and may be safely embed in client side code or distributed binaries. )
+
+---
+
+## Getting Started
+
+
+* ```git clone https://github.com/mikosz08/literate-waffle.git```
+* ```cd literate-waffle/StackAPI```
+* ```Set your StackOverflow API key within appsettings.Development.json```
+* ```docker-compose build```
+* ```docker-compose up```
+* ```http://localhost:8000/swagger```
+
+
+
+
+
+
+---
+![image](https://github.com/user-attachments/assets/76b629bd-f0f8-411c-9ba4-0f6706bfbf11)
+![image](https://github.com/user-attachments/assets/1137c2e8-86d2-484c-a061-698b9b7718d7)
+
